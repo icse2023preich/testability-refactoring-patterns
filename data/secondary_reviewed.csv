@@ -1,0 +1,643 @@
+Coder,Unnamed: 0,comment,fauthor_comment,period,pr_group,prod_file,prod_location,ref_pattern,reviewer,test_location,url
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,https://github.com/palantir/atlasdb/pull/4878/files#diff-4c0549920c59029b23d72664074adfe7e8983a978958533cacf276b759d4eb3fR47,https://github.com/palantir/atlasdb/pull/4878
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jcabi/jcabi-http/pull/118
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/tomakehurst/wiremock/pull/1005
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/PegaSysEng/pantheon/pull/1284
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/line/armeria/pull/964/files#diff-a063dc5a44bc921f5226f4597ab04f90ca8ae154d1d5a1b1fac030bfe97dbf93R57,https://github.com/line/armeria/pull/964
+,,,,January,incl_ref_for_test,,,extract_class_for_invocation,Reviewer1,https://github.com/linkedin/ambry/pull/242/files#diff-554d944f3bc88157f7137df89a51895f3fbfb1165038fa279f904e4fe0485c9aR75,https://github.com/linkedin/ambry/pull/242
+,,,,January,incl_ref_for_test,,,add_constructor_param,Reviewer1,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1445/files#diff-a996943049d7074bf2ef1dd04436c11de90418fc3e4de8457e051624dc30132cR78,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1445
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/codice/ddf/pull/726/files#diff-c00a10eecd79a850a24d22a1bbc1d3cdcbaef35d78e349345309b521c3383437R123,https://github.com/codice/ddf/pull/726
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jaegertracing/jaeger-client-java/pull/694
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/neo4j-contrib/neo4j-graph-algorithms/pull/173
+,,,,January,incl_ref_for_test,,,extract_attribute_for_assertion,Reviewer1,https://github.com/Netflix/Hystrix/pull/1039/files#diff-871e3841ba74f85c142d4cf22f3040dc3f2fc82dc32ca3c37ca784506461e247R57,https://github.com/Netflix/Hystrix/pull/1039
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/facebook/rocksdb/pull/1167
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/kafka/pull/4382
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-metaverse/pull/15
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/rocketmq/pull/220
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/386
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/bookkeeper/pull/1607
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/quarkusio/quarkus/pull/8676
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,https://github.com/linkedin/dr-elephant/pull/496/files#diff-7779e09b0c551d9871e63bd2403686f1d09f7200a9ad64e433251b10c8fe232eR87,https://github.com/linkedin/dr-elephant/pull/496
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Netflix/Hystrix/pull/742
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/linkedin/ambry/pull/708
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/3416
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/STAMP-project/dspot/pull/607
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/421
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/677
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/wire/pull/617
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/kiegroup/appformer/pull/848
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hazelcast/hazelcast/pull/4861
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/enonic/xp/pull/5860
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/ikasanEIP/ikasan/pull/111
+,,,,January,incl_ref_for_test,,,extract_class_for_override,Reviewer1,https://github.com/googleapis/gax-java/pull/117/files#diff-9f172d3196abce0b8ed11a51feaa944de65978440f68763039023c12140a1cc7R405,https://github.com/googleapis/gax-java/pull/117
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/threerings/getdown/pull/136
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jcabi/jcabi-http/pull/221
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pinpoint-apm/pinpoint/pull/604
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/eclipse-archived/smarthome/pull/6160
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/geoserver/geoserver/pull/1910/files#diff-d097cae3cdd1ec4fddd8cf836dfa7f20bcbe76936d0550f6331a126e61ef7c53R22,https://github.com/geoserver/geoserver/pull/1910
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pinpoint-apm/pinpoint/pull/5093
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/geoserver/geoserver/pull/1911/files#diff-d097cae3cdd1ec4fddd8cf836dfa7f20bcbe76936d0550f6331a126e61ef7c53R22,https://github.com/geoserver/geoserver/pull/1911
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/networknt/light-4j/pull/282
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pdi-sdk-plugins/pull/63
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2963
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/line/armeria/pull/1222
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/unic/neba/pull/273
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/JakeWharton/butterknife/pull/59
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/JakeWharton/butterknife/pull/35
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/thorntail/thorntail/pull/133
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/linkedin/ambry/pull/938
+,,,,January,incl_ref_for_test,,,extract_method_for_override,Reviewer1,,https://github.com/pentaho/pentaho-metaverse/pull/602
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/2000
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/wire/pull/782
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/854
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/enonic/xp/pull/2224
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/palantir/atlasdb/pull/3660
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/okhttp/pull/71
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/k9mail/k-9/pull/1307
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/line/armeria/pull/1971
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/qos-ch/logback/pull/401
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/kafka/pull/3574
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/graknlabs/grakn/pull/2498
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/bugsnag/bugsnag-android/pull/295
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/arangodb/arangodb-java-driver/pull/276
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/atlasapi/atlas/pull/1355
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/mybatis/mybatis-3/pull/1068
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/getsentry/sentry-java/pull/24
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/NationalSecurityAgency/datawave/pull/675
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/rocketmq/pull/582
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/7533
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Netflix/titus-control-plane/pull/769
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/154
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/metrics/pull/1566
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/java-native-access/jna/pull/446
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Terracotta-OSS/terracotta-core/pull/182
+,,,,January,incl_ref_for_test,,,extract_attribute_for_assertion,Reviewer1,https://github.com/apache/druid/pull/2878/files#diff-a94425c85bb4e8059615bd3f9285014200623e52d9ad7a86b48bded3410259f4R84,https://github.com/apache/druid/pull/2878
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/azkaban/azkaban/pull/1366
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Terracotta-OSS/terracotta-core/pull/703
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/druid/pull/1760
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/tinkerpop/pull/226
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/kafka/pull/3140
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/792
+,,,,January,only_ref_for_test,,,extract_class_for_override,Reviewer1,https://github.com/Alluxio/alluxio/pull/3783/files#diff-e6bedaff0ccf307d6c18921e16bc7ec34518746f69c66ef222a18ff8be9b854eR48,https://github.com/Alluxio/alluxio/pull/3783
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/druid/pull/3943
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/maven/pull/13
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/everit-org/json-schema/pull/384
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/storm/pull/1673
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/togglz/togglz/pull/339
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/kafka/pull/2389
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/camel/pull/445
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/wire/pull/11
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/azkaban/azkaban/pull/1760
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/camunda/camunda-bpm-spring-boot-starter/pull/79
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/attic-apex-core/pull/563
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/skywalking/pull/4995
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/antlr/antlr4/pull/1945
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/704
+,,,,January,incl_ref_for_test,,,extract_class_for_override,Reviewer1,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1088/files#diff-ecc3274cc205759605b9f50f62e7253014a15c969c9f56a78c2a0377df5fe6caR37,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1088
+,,,,January,incl_ref_for_test,,,extract_attribute_for_assertion,Reviewer1,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1088/files#diff-2c54f09d862d21aa99adc47d3820bbfa772a5e4c8ac54079fdd518398241bbd5R51,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1088
+,,,,January,incl_ref_for_test,,,extract_class_for_invocation,Reviewer1,modules/core/core-content/src/main/java/com/enonic/xp/core/impl/content/ContentOutboundDependenciesIdsResolver.java,https://github.com/enonic/xp/pull/4019
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/census-instrumentation/opencensus-java/pull/199
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/commons-text/pull/25
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/kafka/pull/5007
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jcabi/jcabi-http/pull/83
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/808
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jenkinsci/jira-plugin/pull/161
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jchambers/pushy/pull/599
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/knowm/XChange/pull/988
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/windup/windup/pull/1395
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-platform-plugin-reporting/pull/384
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/mockito/mockito/pull/983
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/folio-org/okapi/pull/1009
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/folio-org/okapi/pull/828
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/WPIRoboticsProjects/GRIP/pull/52
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/rsksmart/rskj/pull/1330
+,,,,January,incl_ref_for_test,,,extract_method_for_override,Reviewer1,https://github.com/Graylog2/graylog2-server/pull/5589/files#diff-bdda79d493bc69d3a3fb1bed0cb8500fa0c04569287722a0ab423d0b5d8e0bc2R337,https://github.com/Graylog2/graylog2-server/pull/5589
+,,,,January,incl_ref_for_test,,,other,Reviewer1,https://github.com/microsoft/appcenter-sdk-android/pull/1351/files#diff-2bf3410a24308f47c09d1ce75f85cd98024c1a5629b786d3be796c3d9aa6717bR603,https://github.com/microsoft/appcenter-sdk-android/pull/1351
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/maven/pull/123
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,https://github.com/apache/zeppelin/pull/1769/files#diff-7c3fc048b9edf203141d2efae204cc4f747ef713b3ccd83c3185b06e058e4c06R32,https://github.com/apache/zeppelin/pull/1769
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/enonic/xp/pull/3979
+,,,,January,incl_ref_for_test,,,extract_attribute_for_assertion,Reviewer1,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/909/files#diff-17ef0b508275ccbafb642dbd103b0c16bcef1a49004eee2f74691e0677243ea5R235,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/909
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/maven/pull/121
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/SonarSource/sonar-java/pull/1238
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/432
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/web3j/web3j/pull/787
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/eclipse/jetty.project/pull/2493
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/4649
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Netflix/titus-control-plane/pull/197
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/HaraldWalker/user-agent-utils/pull/78
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/HaraldWalker/user-agent-utils/pull/112
+,,,,January,only_ref_for_test,,,extract_class_for_invocation,Reviewer1,https://github.com/yegor256/takes/pull/539/files#diff-43465e1cb115125a5bbd685ab728a26e4b73830b39e4d40daf2e471d1f813edfR63,https://github.com/yegor256/takes/pull/539
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/k9mail/k-9/pull/567
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/commons-app/apps-android-commons/pull/2184
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/2925
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/322
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/spotify/docker-client/pull/306
+,,,,January,incl_ref_for_test,,,other,Reviewer1,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/483
+,,,,January,incl_ref_for_test,,,add_constructor_param,Reviewer1,https://github.com/ConsenSys/tessera/pull/156/files#diff-b0bb1c9c2baff7f822b23cea9ebe8f27630bc5ab4723d2d59ad40e2f4d72d512R61,https://github.com/ConsenSys/tessera/pull/156
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/WPIRoboticsProjects/GRIP/pull/30
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/geoserver/geoserver/pull/3234
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/eclipse-vertx/vert.x/pull/3107
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/4345
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/3969
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jitsi/ice4j/pull/92
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/rsksmart/rskj/pull/729
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/520
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/672
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/247
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/ConsenSys/tessera/pull/346
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/3284
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/eclipse/jetty.project/pull/3365
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jenkinsci/ec2-plugin/pull/447
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/dropwizard/dropwizard/pull/2317/files#diff-ea9702e608c027f4c9cea4297e63a04b9ab392a4d93f93022905e9f4e57e6f72R30,https://github.com/dropwizard/dropwizard/pull/2317
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/linkedin/ambry/pull/1601
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/floodlight/floodlight/pull/60
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/stellar/java-stellar-sdk/pull/202
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/linkedin/ambry/pull/1611
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/okhttp/pull/2850
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/confluentinc/ksql/pull/2837
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/okhttp/pull/2875
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zeromq/jzmq/pull/162
+,,,,January,incl_ref_for_test,,,widen_access_for_invocation,Reviewer1,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2402/files#diff-5f2a09c8023c848cdbb8b04e3ae7a7f51e02ff4d4262e7be24180ed0124f07ceR64,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2402
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/yegor256/cactoos/pull/701/files#diff-a2ebfd7e276a523a51507eda58428ebe94551df01ee3ea154b030142c0330709R86,https://github.com/yegor256/cactoos/pull/701
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/line/armeria/pull/2152
+,,,,January,incl_ref_for_test,,,extract_attribute_for_assertion,Reviewer1,https://github.com/apache/druid/pull/4293/files#diff-43c79bac60356371b67f5c44af1d3914efb2b35c6b08f2b10bb53791ecba93f6R510,https://github.com/apache/druid/pull/4293
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Netflix/spectator/pull/790
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jenkinsci/script-security-plugin/pull/31
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/azkaban/azkaban/pull/1428
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/CorfuDB/CorfuDB/pull/1611
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/INRIA/spoon/pull/3303
+,,,,January,only_ref_for_test,,,extract_class_for_invocation,Reviewer1,https://github.com/STAMP-project/dspot/pull/885/files#diff-a71dff08d6ff76a022e878bc1d39e675ac57e311402b1e9389767e4399919403R85,https://github.com/STAMP-project/dspot/pull/885
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/STAMP-project/dspot/pull/899
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Yakindu/statecharts/pull/1071
+,,,,January,only_ref_for_test,,,extract_class_for_override,Reviewer1,https://github.com/apache/incubator-heron/pull/1890/files#diff-bfe5798fddab9eda61eb4f9fd6517a0071634b13661993407c4312ee462a5232R110,https://github.com/apache/incubator-heron/pull/1890
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/tika/pull/150
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/azkaban/azkaban/pull/1409
+,,,,January,incl_ref_for_test,,,add_constructor_param,Reviewer1,https://github.com/bugsnag/bugsnag-android/pull/661,https://github.com/bugsnag/bugsnag-android/pull/661
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/castorini/anserini/pull/1317
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/checkstyle/checkstyle/pull/1462
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/confluentinc/ksql/pull/1955
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/forcedotcom/SalesforceMobileSDK-Android/pull/818
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/graknlabs/grakn/pull/1353
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/graknlabs/grakn/pull/611
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hazelcast/hazelcast-simulator/pull/1051
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hazelcast/hazelcast/pull/4682
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hbz/oerworldmap/pull/968
+,,,,January,incl_ref_for_test,,,add_constructor_param,Reviewer1,https://github.com/jaegertracing/jaeger-client-java/pull/187/files#diff-93ab49abcc083e3f3e7d604f9b3482e86be92cd17927bb8f60500dd2c1d2921bR185,https://github.com/jaegertracing/jaeger-client-java/pull/187
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jitsi/jitsi-meet-torture/pull/114
+,,,,January,incl_ref_for_test,,,extract_class_for_invocation,Reviewer1,https://github.com/k9mail/k-9/pull/536/files#diff-64c232f36b55b5f6235078f2f86d72d1ca0fe5b83eff7685eb3bb10541511399R48,https://github.com/k9mail/k-9/pull/536
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/microsoft/appcenter-sdk-android/pull/84
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/mockito/mockito/pull/501
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,,https://github.com/oracle/weblogic-kubernetes-operator/pull/322
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-metaverse/pull/76
+,,,,January,only_ref_for_test,,,extract_method_for_override,Reviewer1,https://github.com/pentaho/pentaho-platform/pull/1739/files#diff-f50ad1c5f44512efc150354c947f3e36fa13d9d626963af6fde3fe5e346e25aeR778,https://github.com/pentaho/pentaho-platform/pull/1739
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/phenotips/phenotips/pull/2579
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/reactor/reactor-core/pull/5/files#diff-3b595294e10d97100e232cdc0a109d17d494b3590ea06e464892098e22d988d2R60,https://github.com/reactor/reactor-core/pull/5
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/sialcasa/mvvmFX/pull/111
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/tronprotocol/java-tron/pull/33
+,,,,January,incl_ref_for_test,,,add_constructor_param,Reviewer1,https://github.com/yegor256/takes/pull/200/files#diff-61dcbb1cf5c1c91c5e9b3c960bc4ebfd318760feecd9a5968c5f16d8cde7abbbR101,https://github.com/yegor256/takes/pull/200
+,,,,January,incl_ref_for_test,,,widen_access_for_invocation,Reviewer1,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1239/files#diff-0f613db5dcb2f683e7f96302575d369f5f409f0bb81c6a24a0872f374d9f076aR38,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1239
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1677
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/kiegroup/kie-wb-common/pull/397
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/2199
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/craftercms/engine/pull/207
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/CloudSlang/score/pull/216
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/SonarSource/sonar-java/pull/535
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1466
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/obiba/mica2/pull/235
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/thorntail/thorntail/pull/141
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/OpenGamma/Strata/pull/1840
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/floodlight/floodlight/pull/243
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/azkaban/azkaban/pull/1611
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1089
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/druid/pull/1079
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/173
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/mapstruct/mapstruct/pull/857
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/thorntail/thorntail/pull/145
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/enonic/xp/pull/6699
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/freenet/fred/pull/390
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1072
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/confluentinc/ksql/pull/3061
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleContainerTools/jib/pull/780
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/molgenis/molgenis/pull/5503
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/eclipse/birt/pull/174
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1191
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/project-sunbird/sunbird-lms-mw/pull/460
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/microsoft/ApplicationInsights-Java/pull/157
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/494
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2330
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/quarkusio/quarkus/pull/2617
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/ISISComputingGroup/ibex_gui/pull/627
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/rsocket/rsocket-java/pull/638
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/2286
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/web3j/web3j/pull/784
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/590
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/real-logic/aeron/pull/491
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/oshi/oshi/pull/334
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/flink/pull/1030
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/okhttp/pull/1280
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,https://github.com/docker-java/docker-java/pull/550/files#diff-1083d6b846e93a0ab4e445301c3cac62f8a874e2ab9d82616b4aac26e805191dR58,https://github.com/docker-java/docker-java/pull/550
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/infinispan/infinispan/pull/2106
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/census-instrumentation/opencensus-java/pull/296
+,,,,January,incl_ref_for_test,,,extract_class_for_invocation,Reviewer1,https://github.com/googleapis/google-api-java-client/pull/1637/files#diff-e98aeadf1cd578cb012116cd3f84034ce3197e7961d41e3aff22057f8da4415dR38,https://github.com/googleapis/google-api-java-client/pull/1637
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/ConsenSys/tessera/pull/286
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jmxtrans/jmxtrans/pull/640
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/558
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/geoserver/geoserver/pull/3270
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/woorea/openstack-java-sdk/pull/213
+,,,,January,incl_ref_for_test,,,extract_method_for_override,Reviewer1,https://github.com/web3j/web3j/pull/1011/files#diff-11925b8e957d624ea447f6b31e0fb3d84c05178c5548da7a1328f079a7ae4591R125,https://github.com/web3j/web3j/pull/1011
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/telstra/open-kilda/pull/2143
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/camel/pull/690
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/HubSpot/Singularity/pull/682
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/obiba/mica2/pull/241
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/stripe/stripe-java/pull/934
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Alluxio/alluxio/pull/5091
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zeromq/jzmq/pull/388
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/qos-ch/logback/pull/274
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/geoserver/geoserver/pull/3285
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/okhttp/pull/2040
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/ConsenSys/tessera/pull/327
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/820
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/227
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Cognifide/AEM-Rules-for-SonarQube/pull/39
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/JakeWharton/butterknife/pull/237
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/865
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/SonarSource/sonar-java/pull/2164
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/3771
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/FortnoxAB/reactive-wizard/pull/58
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/JakeWharton/butterknife/pull/215
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2533
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/SonarSource/sonar-java/pull/750
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/ExpediaDotCom/adaptive-alerting/pull/481
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/eclipse-archived/smarthome/pull/6413
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/microsoft/spring-cloud-azure/pull/60
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/census-instrumentation/opencensus-java/pull/1413
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-data-refinery/pull/38
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/traccar/traccar/pull/935
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/ExpediaDotCom/adaptive-alerting/pull/764
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/druid/pull/5600
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/beam/pull/1941
+,,,,January,incl_ref_for_test,,,add_constructor_param,Reviewer1,https://github.com/k9mail/k-9/pull/4856/files#diff-97acc66b57cd50ae9242e82c59cd1c1fe25bee2dd31c845e9df1464cd516ac54R142,https://github.com/k9mail/k-9/pull/4856
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/bookkeeper/pull/1393
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/163
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/2522
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/wire/pull/187
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/1023
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/1139
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/junkdog/artemis-odb/pull/335
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/2891
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/eclipse/eclipse-collections/pull/764
+,,,,January,incl_ref_for_test,,,override_system_time,Reviewer1,https://github.com/firebase/firebase-android-sdk/pull/1333/files#diff-329ea845fe9ddff6aa413e47e733c53cba6df39b0905223ee9890badf53a4e5fR154,https://github.com/firebase/firebase-android-sdk/pull/1333
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hazelcast/hazelcast-simulator/pull/1625
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/reaktivity/nukleus-http.java/pull/92
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zookeeper/pull/474
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/2442
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/492
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Netflix/Hystrix/pull/1363
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/1005
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/flightstats/hub/pull/1023
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hazelcast/hazelcast/pull/5114
+,,,,January,irrelevant,,,irrelevant,Reviewer1,https://github.com/twilio/twilio-java/pull/502/files#diff-c60706ec7e475997e3261d26c77ac98aa9d4fa3383dd6db2281c285fb679f941R82,https://github.com/twilio/twilio-java/pull/502
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/3120
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,https://github.com/apache/kafka/pull/2123/files#diff-a09470809fb4f40f51a0be2c67fb9d888277097532d4a269a38b7305c3ef289fR159,https://github.com/apache/kafka/pull/2123
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/kiegroup/appformer/pull/639
+,,,,January,incl_ref_for_test,,,extract_method_for_override,Reviewer1,https://github.com/jchambers/pushy/pull/39/files#diff-d8d4d0360449e723dcea0539c99f4a9204ce7580708232190f21a5bfcfa3ffadR197,https://github.com/jchambers/pushy/pull/39
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/micrometer-metrics/micrometer/pull/593
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/5723
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/datastax/java-driver/pull/850
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/5364
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/alibaba/Sentinel/pull/1335
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,https://github.com/k9mail/k-9/pull/2203/files#diff-b8ac0fb1b435ffad47ce8daa8e43ed5ad05059a2fce0aae807d5043cbb7b8718R140,https://github.com/k9mail/k-9/pull/2203
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/confluentinc/common/pull/241
+,,,,January,incl_ref_for_test,,,extract_method_for_invocation,Reviewer1,https://github.com/eclipse/rdf4j/pull/2210,https://github.com/eclipse/rdf4j/pull/2210
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/4150
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/reactor/reactor-core/pull/1148
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/alibaba/Sentinel/pull/205
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Netflix/hollow/pull/380
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/census-instrumentation/opencensus-java/pull/729
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Alluxio/alluxio/pull/6776
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hector-client/hector/pull/468
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/traccar/traccar/pull/4367
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/samtools/htsjdk/pull/1056
+,,,,January,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jchambers/pushy/pull/3
+,,,,January,incl_ref_for_test,,,widen_access_for_invocation,Reviewer1,https://github.com/kiegroup/kie-wb-common/pull/45/files?diff=split&w=1#diff-2cb118bf3da16cd4a36308f48ccd8c30dd2b04af9abbd0d04581f3805c89e4aaR165,https://github.com/kiegroup/kie-wb-common/pull/45
+,,,,January,incl_ref_for_test,,,extract_method_for_override,Reviewer1,https://github.com/kiegroup/kie-wb-common/pull/45/files?diff=split&w=1#diff-2cb118bf3da16cd4a36308f48ccd8c30dd2b04af9abbd0d04581f3805c89e4aaR45,https://github.com/kiegroup/kie-wb-common/pull/45
+PR,0.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/wire/pull/173
+PR,1.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/googleapis/gapic-generator/pull/1710
+PR,2.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/flutter/flutter-intellij/pull/3600
+PR,3.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/yegor256/cactoos/pull/575
+PR,4.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/broadinstitute/picard/pull/291
+PR,5.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/openhab/openhab1-addons/pull/4805
+PR,6.0,code added and tested,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/jbosstools/jbosstools-integration-stack-tests/pull/933
+PR,7.0,loadConfig extracted and invoked,,August 2022,incl_ref_for_test,heron/scheduler-core/src/java/com/twitter/heron/scheduler/SubmitterMain.java,https://github.com/apache/incubator-heron/pull/1704/files#diff-88312cf85e2909aa06ed0803377611eb60d17c3e8e97efcfcb92ba1285671290R250,extract_method_for_invocation,Reviewer1,https://github.com/apache/incubator-heron/pull/1704/files#diff-4f590d607a5f20ad7d7bf186f3ca52330e6eb6a1e24293e6ac92d30906ca5582R235,https://github.com/apache/incubator-heron/pull/1704
+PR,8.0,clock injected in CsvReporter,,August 2022,only_ref_for_test,metrics-core/src/main/java/com/yammer/metrics/reporting/CsvReporter.java,https://github.com/dropwizard/metrics/pull/120/files#diff-79282388521b3ce72e7e08c429320f4d0134d99a4cbaba21ceb279ebdd2d0071R91,override_system_clock,Reviewer1,https://github.com/dropwizard/metrics/pull/120/files#diff-5e24e2997f52f09ce934e8c602ad64e2342b28af3b150932d1b20e33dc313ca9R38,https://github.com/dropwizard/metrics/pull/120
+PR,9.0,clock injected in ConsoleReporter,,August 2022,only_ref_for_test,metrics-core/src/main/java/com/yammer/metrics/reporting/ConsoleReporter.java,https://github.com/dropwizard/metrics/pull/120/files#diff-3f622080198b6addb623a0a020fd493907b7b0c23dbb64e1c55f1023de72aa64R81,override_system_clock,Reviewer1,https://github.com/dropwizard/metrics/pull/120/files#diff-2dfdc04cc82c3065554c18dcd64780ee7d621cd80cb0ff67f46c9cf02965f4faR16,https://github.com/dropwizard/metrics/pull/120
+PR,10.0,framework-specific tests inside test folder,,August 2022,irrelevant,extensions/smallrye-context-propagation/deployment/src/test/java/io/quarkus/context/test/ContextEndpoint.java,,irrelevant,Reviewer1,https://github.com/quarkusio/quarkus/pull/6443/files#diff-0c21232e83e5a03f48a9e0dc1e3051a2856f07db5c4dfc12ebdd8f01f2156b2cR202,https://github.com/quarkusio/quarkus/pull/6443
+PR,11.0,"ImportFormat constructor added, but all params can be injected without it",,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/JabRef/jabref/pull/1501
+PR,12.0,method countMissingSignatures extracted and tested,,August 2022,incl_ref_for_test,rskj-core/src/main/java/co/rsk/peg/BridgeUtils.java,https://github.com/rsksmart/rskj/pull/1225/files#diff-a33646b11694d377aa69060bbfd25b2800f9e3f72e5ecfbbb3b1b4ab16c4da2fR183,extract_method_for_invocation,Reviewer1,https://github.com/rsksmart/rskj/pull/1225/files#diff-78d8570042acbb682da726adaf857bdf828d2389842e4928ed5ffb89c017407cR331,https://github.com/rsksmart/rskj/pull/1225
+PR,13.0,no structural changes,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/SmarterApp/RDW_Reporting/pull/2166
+PR,14.0,no structural changes,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/querydsl/querydsl/pull/1550
+PR,15.0,"no structural changes, resources cleanup",,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/strimzi/strimzi-kafka-operator/pull/756
+PR,16.0,no structural changes,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/infinispan/infinispan/pull/1333
+PR,17.0,no structural changes,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/square/moshi/pull/13
+PR,18.0,"FakeService created and tested, no refactorings",,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/exonum/exonum-java-binding/pull/774
+PR,19.0,no relevant changes,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/884
+PR,20.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/TestFX/TestFX/pull/96
+PR,21.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/unclebob/fitnesse/pull/1076
+PR,22.0,error changed to log debug in prod code,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/strimzi/strimzi-kafka-operator/pull/1657
+PR,23.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/infinispan/infinispan/pull/1180
+PR,24.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Atmosphere/atmosphere/pull/1432
+PR,25.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/tinkerpop/pull/830
+PR,26.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/hazelcast/hazelcast/pull/2061
+PR,27.0,SseEmitter made public to access from tests,,August 2022,incl_ref_for_test,resilience4j-spring-boot/src/main/java/io/github/resilience4j/circuitbreaker/monitoring/endpoint/CircuitBreakerEventEmitter.java,https://github.com/resilience4j/resilience4j/pull/133/files#diff-d7ea1a13c8bd4627ebf694aa39ad4292dc7f748730ad04206106315693b7940fR25,widen_access_for_invocation,Reviewer1,https://github.com/resilience4j/resilience4j/pull/133/files#diff-1bb4cf77c9319d3d8ba93351e19e48a6395db6f19c8b7e91b7d4116d4a250b78R54,https://github.com/resilience4j/resilience4j/pull/133
+PR,28.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/beam/pull/215
+PR,29.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/tronprotocol/java-tron/pull/187
+PR,30.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-platform/pull/4065
+PR,31.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/1179
+PR,32.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/yahoo/athenz/pull/348
+PR,33.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/cloudfoundry/uaa/pull/1149
+PR,34.0,"noFailureText can be controlled in general, not only from tests",,August 2022,irrelevant,src/main/java/com/sonyericsson/jenkins/plugins/bfa/tokens/Token.java,,irrelevant,Reviewer1,,https://github.com/jenkinsci/build-failure-analyzer-plugin/pull/32
+PR,35.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1776
+PR,36.0,"mostly rust, but even TestService.java has no relevant changes",,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/exonum/exonum-java-binding/pull/279
+PR,37.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Alluxio/alluxio/pull/3191
+PR,38.0,no structural changes,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/SonarSource/sonar-java/pull/2847
+PR,39.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/wso2/carbon-identity-framework/pull/2543
+PR,40.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-platform-plugin-reporting/pull/714
+PR,41.0,getDeployPreferences is used only from prod code,,August 2022,irrelevant,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2439/files#diff-4f781961c7dfb32b7dfeadc3f28aa55a75ebe64c6b3f3cfcd20a5628bafeb242R135,irrelevant,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2439
+PR,42.0,no structural changes,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/yegor256/cactoos/pull/120
+PR,43.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/GoogleContainerTools/jib/pull/1751
+PR,44.0,the method is not used from tests,,August 2022,irrelevant,,https://github.com/apache/zeppelin/pull/3593/files#diff-33b394ef5c2e3dedca7bf1ef0b3c0282d7479fc9468ee423fc69b38551f6f292R150,irrelevant,Reviewer1,,https://github.com/apache/zeppelin/pull/3593
+PR,45.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/CorfuDB/CorfuDB/pull/138
+PR,46.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/4786
+PR,47.0,prod code added and tested,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/HubSpot/jinjava/pull/220
+PR,48.0,string constants updated,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/confluentinc/ksql/pull/4983
+PR,49.0,no refactorings,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/commons-lang/pull/508
+PR,50.0,prod code added and tested,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/metrics/pull/1269
+PR,51.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/confluentinc/ksql/pull/49
+PR,52.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/6610
+PR,53.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Alluxio/alluxio/pull/6535
+PR,54.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/geoserver/geoserver/pull/1846
+PR,55.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/apache/calcite/pull/1321
+PR,56.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/grpc/grpc-java/pull/2730
+PR,57.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/neo4j/neo4j-java-driver/pull/428
+PR,58.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/628
+PR,59.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/Graylog2/graylog2-server/pull/6366
+PR,60.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/mockito/mockito/pull/24
+PR,61.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/pentaho/pentaho-metaverse/pull/54
+PR,62.0,,,August 2022,irrelevant,,,irrelevant,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/845
+,63.0,,,August 2022,,,,,Reviewer1,,https://github.com/yegor256/takes/pull/663
+,64.0,,,August 2022,,,,,Reviewer1,,https://github.com/JabRef/jabref/pull/933
+,65.0,,,August 2022,,,,,Reviewer1,,https://github.com/jenkinsci/pipeline-maven-plugin/pull/132
+,66.0,,,August 2022,,,,,Reviewer1,,https://github.com/k9mail/k-9/pull/531
+,67.0,,,August 2022,,,,,Reviewer1,,https://github.com/rsksmart/rskj/pull/197
+,68.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/calcite/pull/829
+,69.0,,,August 2022,,,,,Reviewer1,,https://github.com/samtools/htsjdk/pull/567
+,70.0,,,August 2022,,,,,Reviewer1,,https://github.com/TheAlgorithms/Java/pull/751
+,71.0,,,August 2022,,,,,Reviewer1,,https://github.com/yegor256/takes/pull/930
+,72.0,,,August 2022,,,,,Reviewer1,,https://github.com/openlattice/conductor-client/pull/72
+,73.0,,,August 2022,,,,,Reviewer1,,https://github.com/Atmosphere/atmosphere/pull/399
+,74.0,,,August 2022,,,,,Reviewer1,,https://github.com/tomakehurst/wiremock/pull/373
+,75.0,,,August 2022,,,,,Reviewer1,,https://github.com/hcoles/pitest/pull/320
+,76.0,,,August 2022,,,,,Reviewer1,,https://github.com/openhab/openhab1-addons/pull/3379
+,77.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/phoenix/pull/412
+,78.0,,,August 2022,,,,,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/1869
+,79.0,,,August 2022,,,,,Reviewer1,,https://github.com/pentaho/pentaho-platform/pull/2095
+,80.0,,,August 2022,,,,,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/2048
+,81.0,,,August 2022,,,,,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/3423
+,82.0,,,August 2022,,,,,Reviewer1,,https://github.com/neo4j/neo4j/pull/506
+,83.0,,,August 2022,,,,,Reviewer1,,https://github.com/SonarSource/sonar-java/pull/630
+,84.0,,,August 2022,,,,,Reviewer1,,https://github.com/CloudSlang/cs-actions/pull/542
+,85.0,,,August 2022,,,,,Reviewer1,,https://github.com/flutter/flutter-intellij/pull/1159
+,86.0,,,August 2022,,,,,Reviewer1,,https://github.com/stripe/stripe-java/pull/701
+,87.0,,,August 2022,,,,,Reviewer1,,https://github.com/k9mail/k-9/pull/1808
+,88.0,,,August 2022,,,,,Reviewer1,,https://github.com/resilience4j/resilience4j/pull/132
+,89.0,,,August 2022,,,,,Reviewer1,,https://github.com/Alluxio/alluxio/pull/239
+,90.0,,,August 2022,,,,,Reviewer1,,https://github.com/grpc/grpc-java/pull/5193
+,91.0,,,August 2022,,,,,Reviewer1,,https://github.com/dropwizard/dropwizard/pull/2199
+,92.0,,,August 2022,,,,,Reviewer1,,https://github.com/zeromq/jzmq/pull/446
+,93.0,,,August 2022,,,,,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/711
+,94.0,,,August 2022,,,,,Reviewer1,,https://github.com/geoserver/geoserver/pull/886
+,95.0,,,August 2022,,,,,Reviewer1,,https://github.com/Graylog2/graylog2-server/pull/1485
+,96.0,,,August 2022,,,,,Reviewer1,,https://github.com/eclipse/jetty.project/pull/3401
+,97.0,,,August 2022,,,,,Reviewer1,,https://github.com/enonic/xp/pull/2259
+,98.0,,,August 2022,,,,,Reviewer1,,https://github.com/mybatis/mybatis-3/pull/1890
+,99.0,,,August 2022,,,,,Reviewer1,,https://github.com/rsocket/rsocket-java/pull/213
+,100.0,,,August 2022,,,,,Reviewer1,,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1414
+,101.0,,,August 2022,,,,,Reviewer1,,https://github.com/neo4j/neo4j-java-driver/pull/593
+,102.0,,,August 2022,,,,,Reviewer1,,https://github.com/magefree/mage/pull/1340
+,103.0,,,August 2022,,,,,Reviewer1,,https://github.com/palantir/atlasdb/pull/3145
+,104.0,,,August 2022,,,,,Reviewer1,,https://github.com/googleapis/google-cloud-java/pull/333
+,105.0,,,August 2022,,,,,Reviewer1,,https://github.com/Alluxio/alluxio/pull/4856
+,106.0,,,August 2022,,,,,Reviewer1,,https://github.com/dbeaver/dbeaver/pull/4958
+,107.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/nifi/pull/556
+,108.0,,,August 2022,,,,,Reviewer1,,https://github.com/pentaho/pentaho-platform/pull/1713
+,109.0,,,August 2022,,,,,Reviewer1,,https://github.com/grpc/grpc-java/pull/7592
+,110.0,,,August 2022,,,,,Reviewer1,,https://github.com/ibissource/iaf/pull/969
+,111.0,,,August 2022,,,,,Reviewer1,,https://github.com/find-sec-bugs/find-sec-bugs/pull/572
+,112.0,,,August 2022,,,,,Reviewer1,,https://github.com/confluentinc/ksql/pull/3297
+,113.0,,,August 2022,,,,,Reviewer1,,https://github.com/PegaSysEng/pantheon/pull/1174
+,114.0,,,August 2022,,,,,Reviewer1,,https://github.com/confluentinc/ksql/pull/444
+,115.0,,,August 2022,,,,,Reviewer1,,https://github.com/traccar/traccar/pull/4189
+,116.0,,,August 2022,,,,,Reviewer1,,https://github.com/ORCID/ORCID-Source/pull/1734
+,117.0,,,August 2022,,,,,Reviewer1,,https://github.com/SonarSource/sonar-java/pull/1091
+,118.0,,,August 2022,,,,,Reviewer1,,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/84
+,119.0,,,August 2022,,,,,Reviewer1,,https://github.com/HubSpot/Singularity/pull/673
+,120.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/incubator-heron/pull/3355
+,121.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/opennlp/pull/39
+,122.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/opennlp/pull/367
+,123.0,,,August 2022,,,,,Reviewer1,,https://github.com/azkaban/azkaban/pull/2195
+,124.0,,,August 2022,,,,,Reviewer1,,https://github.com/PegaSysEng/pantheon/pull/461
+,125.0,,,August 2022,,,,,Reviewer1,,https://github.com/GoogleContainerTools/jib/pull/407
+,126.0,,,August 2022,,,,,Reviewer1,,https://github.com/datastax/java-driver/pull/1469
+,127.0,,,August 2022,,,,,Reviewer1,,https://github.com/square/okio/pull/360
+,128.0,,,August 2022,,,,,Reviewer1,,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140
+,129.0,,,August 2022,,,,,Reviewer1,,https://github.com/gstreamer-java/gst1-java-core/pull/106
+,130.0,,,August 2022,,,,,Reviewer1,,https://github.com/hierynomus/sshj/pull/266
+,131.0,,,August 2022,,,,,Reviewer1,,https://github.com/molgenis/molgenis/pull/695
+,132.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/calcite/pull/770
+,133.0,,,August 2022,,,,,Reviewer1,,https://github.com/cdapio/cdap/pull/160
+,134.0,,,August 2022,,,,,Reviewer1,,https://github.com/googleapis/gapic-generator/pull/3055
+,135.0,,,August 2022,,,,,Reviewer1,,https://github.com/pentaho/pentaho-kettle/pull/7
+,136.0,,,August 2022,,,,,Reviewer1,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2170
+,137.0,,,August 2022,,,,,Reviewer1,,https://github.com/k9mail/k-9/pull/2313
+,138.0,,,August 2022,,,,,Reviewer1,,https://github.com/pentaho/pentaho-platform/pull/1717
+,139.0,,,August 2022,,,,,Reviewer1,,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/4209
+,140.0,,,August 2022,,,,,Reviewer1,,https://github.com/broadinstitute/picard/pull/543
+,141.0,,,August 2022,,,,,Reviewer1,,https://github.com/twilio/twilio-java/pull/371
+,142.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/kafka/pull/1821
+,143.0,,,August 2022,,,,,Reviewer1,,https://github.com/zalando/zalenium/pull/728
+,144.0,,,August 2022,,,,,Reviewer1,,https://github.com/angular/clutz/pull/956
+,145.0,,,August 2022,,,,,Reviewer1,,https://github.com/enonic/xp/pull/4729
+,146.0,,,August 2022,,,,,Reviewer1,,https://github.com/querydsl/querydsl/pull/1970
+,147.0,,,August 2022,,,,,Reviewer1,,https://github.com/alissonwilker/fabriki-exercicios/pull/3284
+,148.0,,,August 2022,,,,,Reviewer1,,https://github.com/grpc/grpc-java/pull/2822
+,149.0,,,August 2022,,,,,Reviewer1,,https://github.com/broadinstitute/picard/pull/1359
+,150.0,,,August 2022,,,,,Reviewer1,,https://github.com/google/auto/pull/760
+,151.0,,,August 2022,,,,,Reviewer1,,https://github.com/apache/kafka/pull/5135
+,152.0,,,August 2022,,,,,Reviewer1,,https://github.com/neo4j-contrib/neo4j-graph-algorithms/pull/907
+,153.0,,,August 2022,,,,,Reviewer1,,https://github.com/molgenis/molgenis/pull/4571
+,154.0,,,August 2022,,,,,Reviewer1,,https://github.com/Yakindu/statecharts/pull/2072
+,155.0,,,August 2022,,,,,Reviewer1,,https://github.com/pentaho/pentaho-platform/pull/2640
+,156.0,,,August 2022,,,,,Reviewer1,,https://github.com/influxdata/influxdb-java/pull/351
+,157.0,,,August 2022,,,,,Reviewer1,,https://github.com/yegor256/cactoos/pull/1493
+,,Bug fix + new test case,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/web3j/web3j/pull/39
+,,"Code is extracted into new methods, which additionally receive new unit tests",,August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/apache/maven/pull/351/files#diff-47ee27138d1f3dc574d6b9bdb7e15ea07a541336a8bfda4aa050af4272cbf118R99,https://github.com/apache/maven/pull/351
+,,Code is extracted into new classes to improve testability,"I missed it, but ProfileActivation can be seen as extract a data class.",August,incl_ref_for_test,,,extract_class_for_invocation,Reviewer3,https://github.com/apache/maven/pull/351/files#diff-47ee27138d1f3dc574d6b9bdb7e15ea07a541336a8bfda4aa050af4272cbf118R95,https://github.com/apache/maven/pull/351
+,,,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/UnionVMS/UVMS-AssetModule-APP/pull/565
+,,Bug fix + additional unit test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/rsksmart/rskj/pull/242
+,,Creation of a new constructor for testability,"In absense of tests, I marked extract_method_for_invocation setSystemProperties",August,only_ref_for_test,,,create_constructor,Reviewer3,none,https://github.com/pinpoint-apm/pinpoint/pull/316
+,,New method that is multiple times used in the unit tests,"I used extract_method_for_override, invocation is better",August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/349/files#diff-7c09eed805ddb41c99b57feea50bf5d59b95d17815a84f6a3861452d9b571d04R40,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/349
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/commons-lang/pull/61
+,,"Improvement, but not for testability",I marked cacheMonitor.cache as widen_access_for_invocation and it is used in junits,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/druid/pull/2102
+,,Improved code + new unit test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/Atmosphere/atmosphere/pull/1781
+,,Improved code + new unit test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/tomakehurst/wiremock/pull/577
+,,Improvement for bug fix,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/line/armeria/pull/1260
+,,Improved unit tests,,August,incl_ref_for_test,,,other,Reviewer3,https://github.com/getodk/collect/pull/3886/files?diff=split&w=1#diff-30413e904deaac1431dde57a725cf66b401eb8ec7c2d9e257ebf648d89d03b0eR94,https://github.com/getodk/collect/pull/3886
+,,"New, more flexible class that is also used during testing; note: I assume that one can also apply this ref_pattern to the new CountingScheduler class",,August,incl_ref_for_test,,,extract_class_for_invocation,Reviewer3,https://github.com/getodk/collect/pull/3886/files?diff=split&w=1#diff-4453636ee4ffb93893c341137bfbc2f2f060a26c78a37e695576be044c8d4dd1R30,https://github.com/getodk/collect/pull/3886
+,,Splits a class into two for improved testability,,August,incl_ref_for_test,,,extract_class_for_invocation,Reviewer3,https://github.com/Nike-Inc/cerberus/pull/23/files#diff-1451ab69a06229b2ebc2fd83622963bbf95bd6faa762b7c098286defd3a21076R21,https://github.com/Nike-Inc/cerberus/pull/23
+,,Only improved unit tests,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/Alluxio/alluxio/pull/2352
+,,No test-related changes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/ISISComputingGroup/ibex_gui/pull/650
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/broadinstitute/picard/pull/732
+,,Only new tests for new code,"I marked initially as extract_class_for_invocation TestResultHandler, but it is strictly not a refactoring",August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/dbfit/dbfit/pull/163
+,,Code was extracted to PeriodType class to improve testability,,August,only_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/dhis2/dhis2-core/pull/1943/files#diff-b9a2fff01cc9cc92d64d4724f0202f72101142947638267e33acc4ec200ee8fbR97,https://github.com/dhis2/dhis2-core/pull/1943
+,,Instance creation is extracted to createClientThread method. This method gets overriden in the unit test.,,August,incl_ref_for_test,,,extract_method_for_override,Reviewer3,https://github.com/jchambers/pushy/pull/43/files#diff-d8d4d0360449e723dcea0539c99f4a9204ce7580708232190f21a5bfcfa3ffadR197,https://github.com/jchambers/pushy/pull/43
+,,Unsure: the public validate method is often used in the new unit tests and got 'simplified' in the InputValidator class. But I'm not sure if this is really refactoring for testability since you could have called the same method before the change.,"Indeed, it is rather internal refactoring and doesn't improve testability",August,incl_ref_for_test,,,other,Reviewer3,,https://github.com/enonic/xp/pull/1530
+,,No test-related changes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/getodk/collect/pull/1484
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/yahoo/athenz/pull/46
+,,Many test cases were deleted; I guess they became obsolete due to the new 'Listener' methods,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/optimizely/android-sdk/pull/189
+,,No refactoring for testability,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/neo4j-contrib/neo4j-apoc-procedures/pull/1348
+,,SocketProvider in the constructor to inject a mock object during unit tests,,August,only_ref_for_test,,,add_constructor_param,Reviewer3,https://github.com/dropwizard/metrics/pull/116/files#diff-d9a09c3f1b53a8f756911eb0a400d67c59c687791c096cf626b1e2a1b4be74aaR31,https://github.com/dropwizard/metrics/pull/116
+,,Clock in the constructor to set a fixed time during testing,I missed it,August,only_ref_for_test,,,override_system_time,Reviewer3,https://github.com/dropwizard/metrics/pull/116/files#diff-d9a09c3f1b53a8f756911eb0a400d67c59c687791c096cf626b1e2a1b4be74aaR37,https://github.com/dropwizard/metrics/pull/116
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/palantir/atlasdb/pull/4265
+,,Edit method parameter for easy testing,,August,incl_ref_for_test,,,other,Reviewer3,https://github.com/jenkinsci/jira-plugin/pull/63/files?diff=split&w=1#diff-8cb3a477c8b0c0da058908f2e82aec0721ff74774f5da6e612f5852d441ed1eaR92,https://github.com/jenkinsci/jira-plugin/pull/63
+,,Class was just renamed,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pentaho/pentaho-platform/pull/1705
+,,Unsure: The singleton simplifies the unit tests a bit; but I guess that this change was primarily made for testability,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/grpc/grpc-java/pull/6526
+,,"Unsure: Constructor of SQLiteEventStore is altered, so the unit test can inject a mock schema?",I used extract_class_for_invocation/SchemaManager,August,incl_ref_for_test,,,add_constructor_param,Reviewer3,https://github.com/firebase/firebase-android-sdk/pull/575/files#diff-c799b7bd21c787536ccf81dc711a82efa061f8dda1896b94af3bc2f2d641ba97R67,https://github.com/firebase/firebase-android-sdk/pull/575
+,,Only added code,A very rare case of a testability PR with only added code because getFile is relevant,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/rocketmq/pull/198
+,,,I also found extract_class_for_override isActivityAvailable,August,only_ref_for_test,,,extract_class_for_override,Reviewer3,,https://github.com/getodk/collect/pull/1581
+,,code extracted into formatDegrees method,I missed it,August,only_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/getodk/collect/pull/1581/files#diff-0d069a15315643fda966bba2c34be67f0c3a2bc515af3b1bbbb0c1da89644fdaR406,https://github.com/getodk/collect/pull/1581
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/yegor256/takes/pull/507
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/SonarSource/sonar-java/pull/2
+,,New constructor to provide a MockClientProvider during testing,I missed it,August,incl_ref_for_test,,,create_constructor,Reviewer3,https://github.com/micrometer-metrics/micrometer/pull/1647/files?diff=split&w=1#diff-99848e0181e4741172ce49a9ed1481a9dff9c631c3b771b69469ab27c8343eccR113,https://github.com/micrometer-metrics/micrometer/pull/1647
+,,Bug fix + new test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/storm/pull/2236
+,,Singleton is replaced with constructor,I disagree that it affects testability,August,only_ref_for_test,,,create_constructor,Reviewer3,https://github.com/census-instrumentation/opencensus-java/pull/282/files#diff-493a2325e2a894e6ec3ab4fa9479794fdbecb334fb8d0720507d1d688853193bR44,https://github.com/census-instrumentation/opencensus-java/pull/282
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/seata/seata/pull/2759
+,,Mostly added code; the deleted isOverrideMethod method does not seem relevant for testing,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/checkstyle/checkstyle/pull/329
+,,New getXmlaExtra method that is overriden during the unit test,,August,only_ref_for_test,,,extract_method_for_override,Reviewer3,https://github.com/pentaho/pentaho-platform/pull/1449/files?diff=split&w=1#diff-307cfab7ed4f8c91d6d74df4ff65b3ad7743ec0815e0f7985f492b2a0c9c9fa7R117,https://github.com/pentaho/pentaho-platform/pull/1449
+,,Queue of method calls is replaced by a method of the new HandlerUtils class,I disagree and think this is rather internal refactoring that doesn't affect testability,August,incl_ref_for_test,,,extract_class_for_invocation,Reviewer3,https://github.com/microsoft/appcenter-sdk-android/pull/297/files#diff-b6324d6929fff2911aa6fcddec270fe69632c9ceeccb52db4ac8da9e5c6c4c54R90,https://github.com/microsoft/appcenter-sdk-android/pull/297
+,,A big class is split into several classes to improve their testability,I marked as too large for RfT,August,only_ref_for_test,,,extract_class_for_invocation,Reviewer3,https://github.com/palantir/atlasdb/pull/1959/files#diff-69c9be5568ca21e97d89e0995c7a53b1e9105375c91c9dc4fecfe61905ca8e54R43,https://github.com/palantir/atlasdb/pull/1959
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/hmcts/ethos-repl-docmosis-service/pull/78
+,,"Multiple constructors were set to 'public' to testing; however, the unit tests are not parts of this PR",,August,only_ref_for_test,,,widen_access_for_invocation,Reviewer3,none,https://github.com/reactor/reactor-core/pull/9
+,,Only bug fixes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/ome/openmicroscopy/pull/465
+,,Only bug fixes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/JabRef/jabref/pull/187
+,,Small improvements + extended test cases,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/checkstyle/checkstyle/pull/1494
+,,Unit tests for new class,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/atlasapi/atlas/pull/358
+,,A big class is split into several classes to improve their testability,"I disagree: BackendRegistry has been refactored, but it is rather internal refactoring",August,only_ref_for_test,,,extract_class_for_invocation,Reviewer3,https://github.com/firebase/firebase-android-sdk/pull/347/files#diff-cf65307777dfed8932fff3089e8f1491e2483675d76e9fa7d5fa6b406078c1d2R37,https://github.com/firebase/firebase-android-sdk/pull/347
+,,Bug fix + new unit test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/grpc/grpc-java/pull/5290
+,,Bug fix + new unit test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/SmarterApp/RDW_Reporting/pull/1054
+,,Refactoring + new unit tests; I guess that helper methods like 'isTimeAtEnd' were introduced in a previous PR.,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/rollerderby/scoreboard/pull/90
+,,"Some improvements, but not for testability",,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/checkstyle/checkstyle/pull/3587
+,,Unsure: parameter is added to DownloadReadyChecker and then called with a mock value in the unit test. But I guess that it is rather irrelevant.,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/novoda/download-manager/pull/127
+,,Only bug fixes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/radixdlt/radixdlt-java/pull/172
+,,"Unsure: If any, then 'Other'; the unit tests get a bit simpler/more complex due to StartTask and StopTask",,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/line/armeria/pull/1675
+,,Only added code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/tborzyszkowski/DesignPatterns/pull/180
+,,Bug fix + new unit test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/STAMP-project/dspot/pull/748
+,,only new code (apart from version change),Matched,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/microsoft/ApplicationInsights-Java/pull/816
+,,new feature is added (cookie expiration handling) and test for new feature is created,Matched,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/intuit/karate/pull/1314
+,,subcomponents of previous constructor parameter were added as parameters on their own to supply specific behaviour in test,I'd rather say it is incl_ref_for_test because checkCovered behaviour has changed and the title suggests behaviour change. ,August,incl_ref_for_test,,,add_constructor_param,Reviewer3,https://github.com/apache/bookkeeper/pull/2333/files?diff=split&w=1#diff-2824c64a13c57f42fd58dbb382db0ba701e3d56850aaaae1f2e3062c2af0ce35R90,https://github.com/apache/bookkeeper/pull/2333
+,,attribute numResponsesPending exposed via method,I found one more pattern - numResponsesPending was exposed via getter and used in junit,August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/apache/bookkeeper/pull/2333/files?diff=split&w=1#diff-2824c64a13c57f42fd58dbb382db0ba701e3d56850aaaae1f2e3062c2af0ce35R104,https://github.com/apache/bookkeeper/pull/2333
+,,"BuildConfig* was changed to Profile* and along with this change two new classes (Profile and ProfileLoader) have been added, ProfileLoader has received its own test class","I'd rather use irrelevant: BuildConfigFileElement ->ProfileFileElement rename is irrelevant for testability and two new classes added, also covered by junits. ",August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/square/wire/pull/619
+,,"Access to major-, minor- and patchVersion was widened for test, some new functionality in constructor and compareTo method",I missed it,August,incl_ref_for_test,,,widen_access_for_invocation,Reviewer3,https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/676/files?diff=split&w=1#diff-4d3567e1759b83730c1736d6b8138f6a95d27c0e5612835cf3aee2bdaf81d0a1,https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/676
+,,"Only minor functional changes, no changes to test classes",Matched,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/ankidroid/Anki-Android/pull/5054
+,,The methods callRuntimeManagerRunner and getSchedulerClient have received a new parameter that is used in the test to insert dependencies,"pr_group belongs to the whole PR, so it is incl_ref_for_test for both. Other as pattern is fine, although I'd use extract_method_for_override",August,incl_ref_for_test,,,extract_method_for_override,Reviewer3,https://github.com/apache/incubator-heron/pull/694/files?file-filters%5B%5D=.java&w=1#diff-9e584d73f147296cc864a9a993a8bfbc8527e71c7d9b8e83b741c42a89605af0R110,https://github.com/apache/incubator-heron/pull/694
+,,The class SubmitterMain has received a public parameter that is used in the test to insert dependencies,Matched,August,incl_ref_for_test,,,create_constructor,Reviewer3,https://github.com/apache/incubator-heron/pull/694/files?diff=split&w=1#diff-77f1245f023be9c064b1fcb1e3ceeb1ad11b0225e3cdc46f4e51cfd91fb2360fR53,https://github.com/apache/incubator-heron/pull/694
+,,Seemingly meaningless changes to parseProcess of JsonUtils plus some unconnected additional tests for the class,Matched,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/jmxtrans/jmxtrans/pull/406
+,,unsure: Instead of a new constructor only a new factory method with an additional parameter has been added in ResultsFixtures. This new method is then used in the test of KeyUtils. Additionally some slight functional changes have been added in KeyUtils,"It is a pretty borderline: keyAlias param has been added to inject an empty string and test KeyUtils functional change, on the other hand it is rather non-refactoring but behaviour change of ResultFixtures to inject empty keyAlias for testing. ",August,incl_ref_for_test,,,create_constructor,Reviewer3,https://github.com/jmxtrans/jmxtrans/pull/735/files?diff=split&w=1#diff-df65022d28d502071ada4231298bd31e142dfa97f481662e0e89fe4e9a4d7b9eR51,https://github.com/jmxtrans/jmxtrans/pull/735
+,,only new code added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/TheAlgorithms/Java/pull/754
+,,unsure: diverse set of changes but as far as I can tell no refactorings for testability,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pentaho/pentaho-platform/pull/3677
+,,New functionality plus a test to test this new features,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/linkedin/ambry/pull/413
+,,"Mainly adds new tests with only minor, unrelated changes",,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/linkedin/ambry/pull/1566
+,,Only refactorings for readability and one additional test of preexisting functionality,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/NationalSecurityAgency/datawave/pull/458
+,,one method refactored and tested but for functional reasons not testability,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/bazelbuild/bazel/pull/5334
+,,No testability refactorings,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/PegaSysEng/pantheon/pull/809
+,,setStateContext() is added in NetworkSystem and is used to bring class under test in needed state,"I marked it as inject_dependency, this one is better",August,only_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/MovingBlocks/Terasology/pull/2908/files?diff=split&w=1#diff-9d31ec8abb789dfec1eadb383fbd1a96721e30268f3889e0b3d42ebb973679efR64,https://github.com/MovingBlocks/Terasology/pull/2908
+,,getContext() method is added in several classes but not used in test,,August,only_ref_for_test,,,extract_method_for_invocation,Reviewer3,,https://github.com/MovingBlocks/Terasology/pull/2908
+,,createGameManifest changed to public but not used in any test,it is irrelevant then,August,only_ref_for_test,,,widen_access_for_invocation,Reviewer3,,https://github.com/MovingBlocks/Terasology/pull/2908
+,,Previously empty methods have partly been implemented and a test class is added. No refactorings are present,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/Texera/texera/pull/160
+,,no refactorings,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/Graylog2/graylog2-server/pull/2529
+,,Added methods getNetworkMode and withNetworkMode which are used to test the newly added feature,I disagree: new functionality added and tested. take-mine,August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/docker-java/docker-java/pull/41/files#diff-dc8b0e27419aa2a77f9363abe97f09d27021a6de4b1cc00800f628419cffe977R231,https://github.com/docker-java/docker-java/pull/41
+,,Visibility of getJsonAssertOkAndReturnBody is changed from private to protected,I disagree: new functionality added and tested. take-mine,August,incl_ref_for_test,,,widen_acces_for_invocation,Reviewer3,https://github.com/tomakehurst/wiremock/pull/320/files?diff=split&w=1#diff-27a3b3a65b4fb4291da4cc6ff5d653fdd4d47ba255fe734514b4874406f4c21eR96,https://github.com/tomakehurst/wiremock/pull/320
+,,only new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/strimzi/strimzi-kafka-operator/pull/2564
+,,only new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/palantir/atlasdb/pull/4620
+,,unsure: injection support is added but apparently not used in tests,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pentaho/modeler/pull/283
+,,pretty much nothing that can be called refactoring,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/azkaban/azkaban/pull/1439
+,,only new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/openmrs/openmrs-core/pull/1551
+,,findValues added to interface so it can be mocked in test,debatable: it can also be widen_access_for_override.,August,incl_ref_for_test,,,extract_method_for_override,Reviewer3,https://github.com/OpenRefine/OpenRefine/pull/2839/files#diff-367c88cfad59847336f818d4276255a5c1c23cf155073ae8a5511d8521c3eeeaR59,https://github.com/OpenRefine/OpenRefine/pull/2839
+,,sanitiseConfiguration is moved from Client to ImmutableConfig and called in test,I disagree: for_invocation instead of for_override. take-mine.,August,only_ref_for_test,,,extract_method_for_override,Reviewer3,https://github.com/bugsnag/bugsnag-android/pull/682/files#diff-ffea83a6d46d36db514a51cd675a8fea9b3779bb079d5739ba65427e26d32c01R158,https://github.com/bugsnag/bugsnag-android/pull/682
+,,functional change together with test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/windup/windup/pull/414
+,,new feature,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/geotools/geotools/pull/141
+,,only new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/cdk/cdk/pull/106
+,,Bugfix with no testability related refs,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/SonarSource/sonar-java/pull/462
+,,new feature,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/matsim-org/matsim-libs/pull/997
+,,no new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/aerogear/aerogear-unifiedpush-server/pull/480
+,,"new feature, no test class was touched",,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pentaho/pentaho-kettle/pull/1541
+,,bugfix with related test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/thorntail/thorntail/pull/246
+,,ServiceInstanceSerializer receives the method setAgentLifeCycleStateSerializer to inject a dependency in the test,I'd say it is rather incl_ref_for_test/extract_method_for_invocation because xml configs are updated too and method is invoked in junit. take-mine,August,only_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/pinpoint-apm/pinpoint/pull/1082/files?diff=split&w=1#diff-994b13c954de61f3d87f138004e80b5659a4bb0f937604228c1fb5f1d10c3fceR96,https://github.com/pinpoint-apm/pinpoint/pull/1082
+,,only the interface IAuthenticationResult is introduced,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/AzureAD/microsoft-authentication-library-for-android/pull/473
+,,unsure: Here visibility of the Constraint constructor is widened and likely used as part of a mock but I can not guarantee that based on the code in the PR,constructor access change is rather irrelevant here. take-mine,August,incl_ref_for_test,,,widen_access_for_override,Reviewer3,https://github.com/OpenRefine/OpenRefine/pull/2833/files?diff=split&w=1#diff-d5407b5e4e9cbaf0e61cf2f5d6caedcaf20618583cf5e9fbb353d9e82e5fbb05R72,https://github.com/OpenRefine/OpenRefine/pull/2833
+,,only test refactorings and log level changes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/472
+,,refactoring is only related to functional changed,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/qos-ch/logback/pull/214
+,,constructor is created for SmsMessageSender and used in test to inject dependencies,,August,only_ref_for_test,,,create_constructor,Reviewer3,https://github.com/dhis2/dhis2-core/pull/2892/files?diff=split&w=1#diff-755ce64247e7039b26560990d290fe0bbd03bcc0ce6ed7cb9f65ba0ae7b73134R118,https://github.com/dhis2/dhis2-core/pull/2892
+,,method extracted to new class and tests deleted/disabled but no new tests added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/project-sunbird/sunbird-learning-platform/pull/866
+,,new feature added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/druid/pull/399
+,,new feature added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/SonarSource/sonar-java/pull/189
+,,unsure: AzkabanSingleServer has received a constructor that is likely called in the test,"I agree, the created constructor is used via Guice injectors.",August,incl_ref_for_test,,,create_constructor,Reviewer3,https://github.com/azkaban/azkaban/pull/1056/files?diff=split&w=1#diff-cb3217ccc41e9ac97bc2ceba4848cdb946f79fc283438315120b821128af3241R109,https://github.com/azkaban/azkaban/pull/1056
+,,new feature added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/maven/pull/363
+,,"Visibility of field ""discovery"" has been widened to it can be mocked in the test",I missed it,August,incl_ref_for_test,,,widen_access_for_override,Reviewer3,https://github.com/telstra/open-kilda/pull/1965/files?diff=split&w=1#diff-adc2471711aa024319d50ff00213918462d33b605e29e95a847bff86c141e4d1R230,https://github.com/telstra/open-kilda/pull/1965
+,,Visibilty of method dispatchSyncInProgress has been widened to be called in the test,I agree,August,incl_ref_for_test,,,widen_access_for_invocation,Reviewer3,https://github.com/telstra/open-kilda/pull/1965/files?diff=split&w=1#diff-adc2471711aa024319d50ff00213918462d33b605e29e95a847bff86c141e4d1R232,https://github.com/telstra/open-kilda/pull/1965
+,,new feature added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/oracle/helidon/pull/1525
+,,new feature added,I disagree: getSignalFromUrl extracted and tested. take-mine,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/ankidroid/Anki-Android/pull/5815
+,,only new code added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/square/okio/pull/257
+,,new feature with corresponding tests added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pinpoint-apm/pinpoint/pull/277
+,,CliResult created to make them testable without System.exit,"I used only_ref_for_test, but actually it is rather incl_ref_for_test due to changes in Docu",August,incl_ref_for_test,,,extract_class_for_invocation,Reviewer3,https://github.com/ConsenSys/tessera/pull/174/files?diff=split&w=1#diff-40082e60499a6b7e3419f1b682c5270007b41c0be507defde4f5e48b76c2ace6R24,https://github.com/ConsenSys/tessera/pull/174
+,,contains only bugfix with corresponding test changes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/samtools/htsjdk/pull/36
+,,bugfix with corresponding test changes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/exonum/exonum-java-binding/pull/140
+,,new feature,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/jcabi/jcabi-http/pull/183
+,,functional change,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/floodlight/floodlight/pull/160
+,,only new code added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/find-sec-bugs/find-sec-bugs/pull/266
+,,non testability related refactoring,"I agree, getQueryResults used in my labels is in src/test.",August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/Texera/texera/pull/350
+,,functional change / refactoring,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/mybatis/guice/pull/108
+,,no changes to test classes,"No changes in tests, but prod code changed explicitly for testability reasons. take-mine",August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/Azure/azure-event-hubs-java/pull/435
+,,functional change,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/beam/pull/317
+,,Constructor param is added for LiteDownloadManagerDownloader so it can be mocked in the test,I disagree: the attribute was available before. take-mine,August,incl_ref_for_test,,,add_constructor_param,Reviewer3,https://github.com/novoda/download-manager/pull/318/files?diff=split&w=1#diff-cd9fb4928de2c2f948396eb2649c37e4b21562bd610367195befe3f6d21788c8R82,https://github.com/novoda/download-manager/pull/318
+,,Constructor param is added for ConnectionChecker so it can be mocked in the test,"I disagree: checker attribute is used in new functionality, so not refactoring. take-mine",August,incl_ref_for_test,,,add_constructor_param,Reviewer3,https://github.com/novoda/download-manager/pull/318/files?diff=split&w=1#diff-cd9fb4928de2c2f948396eb2649c37e4b21562bd610367195befe3f6d21788c8R83,https://github.com/novoda/download-manager/pull/318
+,,new feature added,debatable: getSubject extracted and it is necessary for the new feature. ,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pentaho/pentaho-platform/pull/1942
+,,method isThreadAlive is created to check in test wether bugfix actually worked,I used extract_method_for_invocation for isThreadAlive. take-mine,August,incl_ref_for_test,,,other,Reviewer3,https://github.com/dropwizard/dropwizard/pull/198/files?diff=split&w=1#diff-4c50e118826c32661016badcaa59937026b8c97028a04e05caba220a9e88faa8R26,https://github.com/dropwizard/dropwizard/pull/198
+,,only new code added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/geoserver/geoserver/pull/1199
+,,new feature added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/bazelbuild/bazel/pull/5094
+,,no changes to test classes,the PR is explicitly for testing and tests may be written later. take-mine,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pentaho/pentaho-platform/pull/3114
+,,getTo method is extracted and used in test (however it is not used in the prod class itself so the refactoring here is useless),I missed it,August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R23,https://github.com/pentaho/pentaho-platform/pull/1913
+,,getCc method is extracted and used in test (however it is not used in the prod class itself so the refactoring here is useless),I missed it,August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R24,https://github.com/pentaho/pentaho-platform/pull/1913
+,,getBcc method is extracted and used in test (however it is not used in the prod class itself so the refactoring here is useless),I missed it,August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R25,https://github.com/pentaho/pentaho-platform/pull/1913
+,,functional changes and new test added but they are not related to testability changes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/apache/shardingsphere/pull/1662
+,,only new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/molgenis/molgenis/pull/2329
+,,only one rename as refactoring. rest are new features plus tests,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/dropwizard/dropwizard/pull/2741
+,,no refactorings only new and updated features,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/scijava/scijava-common/pull/332
+,,"unsure: goal of changed is to make FakeClock more thread-safe, could be seen as a refactoring to improve testability","I disagree, it is not really refactoring but rather a fix. take-mine",August,only_ref_for_test,,,other,Reviewer3,https://github.com/grpc/grpc-java/pull/2452/files?diff=split&w=1#diff-9fd6c792c02213ae2b107b0c7d9ead5b30bf31119fecaa53954aab46bdfb0949R156,https://github.com/grpc/grpc-java/pull/2452
+,, startExecutorProcess is extracted from startExecutor to be mocked in the test,I missed it,August,incl_ref_for_test,,,extract_method_for_override,Reviewer3,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR82,https://github.com/apache/incubator-heron/pull/536
+,, startExecutorMonitor is extracted from startExecutor to be mocked in the test,I missed it,August,incl_ref_for_test,,,extract_method_for_override,Reviewer3,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR83,https://github.com/apache/incubator-heron/pull/536
+,,onSchedule is extracted from initialize to be tested separately,I agree,August,incl_ref_for_test,,,extract_method_for_invocation,Reviewer3,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR77,https://github.com/apache/incubator-heron/pull/536
+,,contains no functional changes but removes one test,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/OpenGamma/Strata/pull/702
+,,visibility of parameters useDefaults and locationField tightened and replaced with specific getters in test classes ,borderline: getter is can be considered widening the access too. take-mine,August,only_ref_for_test,,,other,Reviewer3,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969/files?diff=split&w=1#diff-eeb575b530450ac30e8b3cc876ee53da8e03b9a77da6c8765e4f885e85f68da8R129,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969
+,,visibility of parameters groupIdField and javaPackageField tightened and replaced with specific getters in test classes ,borderline: getter is can be considered widening the access too. take-mine,August,only_ref_for_test,,,other,Reviewer3,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969/files?diff=split&w=1#diff-9de1760c3fed0892101b89c8baff3f709c9d220a27b738badcfbab99e0971e09R166,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969
+,,only new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/asakusafw/asakusafw/pull/824
+,,only minor testability unrelated changes and tests added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/ConsenSys/tessera/pull/200
+,,only new code,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1862
+,,only minor testability unrelated changes and test added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/TestFX/TestFX/pull/100
+,,new features and tests with minor functional changes,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/tmobile/pacbot/pull/275
+,,new feature added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/spring-projects/spring-framework/pull/1116
+,,only functional changes and test added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/pinpoint-apm/pinpoint/pull/231
+,,only minor functional changes and new tests added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/castorini/anserini/pull/899
+,,new feature in form of reset method added together with testability unrelated refactorings,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/CorfuDB/CorfuDB/pull/1052
+,,unsure: new parameter to invoke and message methods added but apparently not called in test (this observation is likely wrong),,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/Atmosphere/atmosphere/pull/1221
+,,only new code added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/314
+,,only new code added,,August,irrelevant,,,irrelevant,Reviewer3,,https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/314

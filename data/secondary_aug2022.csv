@@ -1,0 +1,159 @@
+,url,comment,pr_group,ref_pattern,prod_file,prod_location,test_location,Coder
+0,https://github.com/square/wire/pull/173,,irrelevant,,,,,PR
+1,https://github.com/googleapis/gapic-generator/pull/1710,,irrelevant,,,,,PR
+2,https://github.com/flutter/flutter-intellij/pull/3600,,irrelevant,,,,,PR
+3,https://github.com/yegor256/cactoos/pull/575,,irrelevant,,,,,PR
+4,https://github.com/broadinstitute/picard/pull/291,,irrelevant,,,,,PR
+5,https://github.com/openhab/openhab1-addons/pull/4805,,irrelevant,,,,,PR
+6,https://github.com/jbosstools/jbosstools-integration-stack-tests/pull/933,code added and tested,irrelevant,,,,,PR
+7,https://github.com/apache/incubator-heron/pull/1704,loadConfig extracted and invoked,incl_ref_for_test,extract_method_for_invocation,heron/scheduler-core/src/java/com/twitter/heron/scheduler/SubmitterMain.java,https://github.com/apache/incubator-heron/pull/1704/files#diff-88312cf85e2909aa06ed0803377611eb60d17c3e8e97efcfcb92ba1285671290R250,https://github.com/apache/incubator-heron/pull/1704/files#diff-4f590d607a5f20ad7d7bf186f3ca52330e6eb6a1e24293e6ac92d30906ca5582R235,PR
+8,https://github.com/dropwizard/metrics/pull/120,clock injected in CsvReporter,only_ref_for_test,override_system_clock,metrics-core/src/main/java/com/yammer/metrics/reporting/CsvReporter.java,https://github.com/dropwizard/metrics/pull/120/files#diff-79282388521b3ce72e7e08c429320f4d0134d99a4cbaba21ceb279ebdd2d0071R91,https://github.com/dropwizard/metrics/pull/120/files#diff-5e24e2997f52f09ce934e8c602ad64e2342b28af3b150932d1b20e33dc313ca9R38,PR
+9,https://github.com/dropwizard/metrics/pull/120,clock injected in ConsoleReporter,only_ref_for_test,override_system_clock,metrics-core/src/main/java/com/yammer/metrics/reporting/ConsoleReporter.java,https://github.com/dropwizard/metrics/pull/120/files#diff-3f622080198b6addb623a0a020fd493907b7b0c23dbb64e1c55f1023de72aa64R81,https://github.com/dropwizard/metrics/pull/120/files#diff-2dfdc04cc82c3065554c18dcd64780ee7d621cd80cb0ff67f46c9cf02965f4faR16,PR
+10,https://github.com/quarkusio/quarkus/pull/6443,framework-specific tests inside test folder,irrelevant,,extensions/smallrye-context-propagation/deployment/src/test/java/io/quarkus/context/test/ContextEndpoint.java,,https://github.com/quarkusio/quarkus/pull/6443/files#diff-0c21232e83e5a03f48a9e0dc1e3051a2856f07db5c4dfc12ebdd8f01f2156b2cR202,PR
+11,https://github.com/JabRef/jabref/pull/1501,"ImportFormat constructor added, but all params can be injected without it",irrelevant,,,,,PR
+12,https://github.com/rsksmart/rskj/pull/1225,method countMissingSignatures extracted and tested,incl_ref_for_test,extract_method_for_invocation,rskj-core/src/main/java/co/rsk/peg/BridgeUtils.java,https://github.com/rsksmart/rskj/pull/1225/files#diff-a33646b11694d377aa69060bbfd25b2800f9e3f72e5ecfbbb3b1b4ab16c4da2fR183,https://github.com/rsksmart/rskj/pull/1225/files#diff-78d8570042acbb682da726adaf857bdf828d2389842e4928ed5ffb89c017407cR331,PR
+13,https://github.com/SmarterApp/RDW_Reporting/pull/2166,no structural changes,irrelevant,,,,,PR
+14,https://github.com/querydsl/querydsl/pull/1550,no structural changes,irrelevant,,,,,PR
+15,https://github.com/strimzi/strimzi-kafka-operator/pull/756,"no structural changes, resources cleanup",irrelevant,,,,,PR
+16,https://github.com/infinispan/infinispan/pull/1333,no structural changes,irrelevant,,,,,PR
+17,https://github.com/square/moshi/pull/13,no structural changes,irrelevant,,,,,PR
+18,https://github.com/exonum/exonum-java-binding/pull/774,"FakeService created and tested, no refactorings",irrelevant,,,,,PR
+19,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/884,no relevant changes,irrelevant,,,,,PR
+20,https://github.com/TestFX/TestFX/pull/96,,irrelevant,,,,,PR
+21,https://github.com/unclebob/fitnesse/pull/1076,,irrelevant,,,,,PR
+22,https://github.com/strimzi/strimzi-kafka-operator/pull/1657,error changed to log debug in prod code,irrelevant,,,,,PR
+23,https://github.com/infinispan/infinispan/pull/1180,,irrelevant,,,,,PR
+24,https://github.com/Atmosphere/atmosphere/pull/1432,,irrelevant,,,,,PR
+25,https://github.com/apache/tinkerpop/pull/830,,irrelevant,,,,,PR
+26,https://github.com/hazelcast/hazelcast/pull/2061,,irrelevant,,,,,PR
+27,https://github.com/resilience4j/resilience4j/pull/133,SseEmitter made public to access from tests,incl_ref_for_test,widen_access_for_invocation,resilience4j-spring-boot/src/main/java/io/github/resilience4j/circuitbreaker/monitoring/endpoint/CircuitBreakerEventEmitter.java,https://github.com/resilience4j/resilience4j/pull/133/files#diff-d7ea1a13c8bd4627ebf694aa39ad4292dc7f748730ad04206106315693b7940fR25,https://github.com/resilience4j/resilience4j/pull/133/files#diff-1bb4cf77c9319d3d8ba93351e19e48a6395db6f19c8b7e91b7d4116d4a250b78R54,PR
+28,https://github.com/apache/beam/pull/215,,irrelevant,,,,,PR
+29,https://github.com/tronprotocol/java-tron/pull/187,,irrelevant,,,,,PR
+30,https://github.com/pentaho/pentaho-platform/pull/4065,,irrelevant,,,,,PR
+31,https://github.com/pentaho/pentaho-kettle/pull/1179,,irrelevant,,,,,PR
+32,https://github.com/yahoo/athenz/pull/348,,irrelevant,,,,,PR
+33,https://github.com/cloudfoundry/uaa/pull/1149,,irrelevant,,,,,PR
+34,https://github.com/jenkinsci/build-failure-analyzer-plugin/pull/32,"noFailureText can be controlled in general, not only from tests",irrelevant,,src/main/java/com/sonyericsson/jenkins/plugins/bfa/tokens/Token.java,,,PR
+35,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1776,,irrelevant,,,,,PR
+36,https://github.com/exonum/exonum-java-binding/pull/279,"mostly rust, but even TestService.java has no relevant changes",irrelevant,,,,,PR
+37,https://github.com/Alluxio/alluxio/pull/3191,,irrelevant,,,,,PR
+38,https://github.com/SonarSource/sonar-java/pull/2847,no structural changes,irrelevant,,,,,PR
+39,https://github.com/wso2/carbon-identity-framework/pull/2543,,irrelevant,,,,,PR
+40,https://github.com/pentaho/pentaho-platform-plugin-reporting/pull/714,,irrelevant,,,,,PR
+41,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2439,getDeployPreferences is used only from prod code,irrelevant,,,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2439/files#diff-4f781961c7dfb32b7dfeadc3f28aa55a75ebe64c6b3f3cfcd20a5628bafeb242R135,,PR
+42,https://github.com/yegor256/cactoos/pull/120,no structural changes,irrelevant,,,,,PR
+43,https://github.com/GoogleContainerTools/jib/pull/1751,,irrelevant,,,,,PR
+44,https://github.com/apache/zeppelin/pull/3593,the method is not used from tests,irrelevant,,,https://github.com/apache/zeppelin/pull/3593/files#diff-33b394ef5c2e3dedca7bf1ef0b3c0282d7479fc9468ee423fc69b38551f6f292R150,,PR
+45,https://github.com/CorfuDB/CorfuDB/pull/138,,irrelevant,,,,,PR
+46,https://github.com/grpc/grpc-java/pull/4786,,irrelevant,,,,,PR
+47,https://github.com/HubSpot/jinjava/pull/220,prod code added and tested,irrelevant,,,,,PR
+48,https://github.com/confluentinc/ksql/pull/4983,string constants updated,irrelevant,,,,,PR
+49,https://github.com/apache/commons-lang/pull/508,no refactorings,irrelevant,,,,,PR
+50,https://github.com/dropwizard/metrics/pull/1269,prod code added and tested,irrelevant,,,,,PR
+51,https://github.com/confluentinc/ksql/pull/49,,irrelevant,,,,,PR
+52,https://github.com/grpc/grpc-java/pull/6610,,irrelevant,,,,,PR
+53,https://github.com/Alluxio/alluxio/pull/6535,,irrelevant,,,,,PR
+54,https://github.com/geoserver/geoserver/pull/1846,,irrelevant,,,,,PR
+55,https://github.com/apache/calcite/pull/1321,,irrelevant,,,,,PR
+56,https://github.com/grpc/grpc-java/pull/2730,,irrelevant,,,,,PR
+57,https://github.com/neo4j/neo4j-java-driver/pull/428,,irrelevant,,,,,PR
+58,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/628,,irrelevant,,,,,PR
+59,https://github.com/Graylog2/graylog2-server/pull/6366,,irrelevant,,,,,PR
+60,https://github.com/mockito/mockito/pull/24,,irrelevant,,,,,PR
+61,https://github.com/pentaho/pentaho-metaverse/pull/54,,irrelevant,,,,,PR
+62,https://github.com/dropwizard/dropwizard/pull/845,,irrelevant,,,,,PR
+63,https://github.com/yegor256/takes/pull/663,,,,,,,
+64,https://github.com/JabRef/jabref/pull/933,,,,,,,
+65,https://github.com/jenkinsci/pipeline-maven-plugin/pull/132,,,,,,,
+66,https://github.com/k9mail/k-9/pull/531,,,,,,,
+67,https://github.com/rsksmart/rskj/pull/197,,,,,,,
+68,https://github.com/apache/calcite/pull/829,,,,,,,
+69,https://github.com/samtools/htsjdk/pull/567,,,,,,,
+70,https://github.com/TheAlgorithms/Java/pull/751,,,,,,,
+71,https://github.com/yegor256/takes/pull/930,,,,,,,
+72,https://github.com/openlattice/conductor-client/pull/72,,,,,,,
+73,https://github.com/Atmosphere/atmosphere/pull/399,,,,,,,
+74,https://github.com/tomakehurst/wiremock/pull/373,,,,,,,
+75,https://github.com/hcoles/pitest/pull/320,,,,,,,
+76,https://github.com/openhab/openhab1-addons/pull/3379,,,,,,,
+77,https://github.com/apache/phoenix/pull/412,,,,,,,
+78,https://github.com/pentaho/pentaho-kettle/pull/1869,,,,,,,
+79,https://github.com/pentaho/pentaho-platform/pull/2095,,,,,,,
+80,https://github.com/dropwizard/dropwizard/pull/2048,,,,,,,
+81,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/3423,,,,,,,
+82,https://github.com/neo4j/neo4j/pull/506,,,,,,,
+83,https://github.com/SonarSource/sonar-java/pull/630,,,,,,,
+84,https://github.com/CloudSlang/cs-actions/pull/542,,,,,,,
+85,https://github.com/flutter/flutter-intellij/pull/1159,,,,,,,
+86,https://github.com/stripe/stripe-java/pull/701,,,,,,,
+87,https://github.com/k9mail/k-9/pull/1808,,,,,,,
+88,https://github.com/resilience4j/resilience4j/pull/132,,,,,,,
+89,https://github.com/Alluxio/alluxio/pull/239,,,,,,,
+90,https://github.com/grpc/grpc-java/pull/5193,,,,,,,
+91,https://github.com/dropwizard/dropwizard/pull/2199,,,,,,,
+92,https://github.com/zeromq/jzmq/pull/446,,,,,,,
+93,https://github.com/pentaho/pentaho-kettle/pull/711,,,,,,,
+94,https://github.com/geoserver/geoserver/pull/886,,,,,,,
+95,https://github.com/Graylog2/graylog2-server/pull/1485,,,,,,,
+96,https://github.com/eclipse/jetty.project/pull/3401,,,,,,,
+97,https://github.com/enonic/xp/pull/2259,,,,,,,
+98,https://github.com/mybatis/mybatis-3/pull/1890,,,,,,,
+99,https://github.com/rsocket/rsocket-java/pull/213,,,,,,,
+100,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1414,,,,,,,
+101,https://github.com/neo4j/neo4j-java-driver/pull/593,,,,,,,
+102,https://github.com/magefree/mage/pull/1340,,,,,,,
+103,https://github.com/palantir/atlasdb/pull/3145,,,,,,,
+104,https://github.com/googleapis/google-cloud-java/pull/333,,,,,,,
+105,https://github.com/Alluxio/alluxio/pull/4856,,,,,,,
+106,https://github.com/dbeaver/dbeaver/pull/4958,,,,,,,
+107,https://github.com/apache/nifi/pull/556,,,,,,,
+108,https://github.com/pentaho/pentaho-platform/pull/1713,,,,,,,
+109,https://github.com/grpc/grpc-java/pull/7592,,,,,,,
+110,https://github.com/ibissource/iaf/pull/969,,,,,,,
+111,https://github.com/find-sec-bugs/find-sec-bugs/pull/572,,,,,,,
+112,https://github.com/confluentinc/ksql/pull/3297,,,,,,,
+113,https://github.com/PegaSysEng/pantheon/pull/1174,,,,,,,
+114,https://github.com/confluentinc/ksql/pull/444,,,,,,,
+115,https://github.com/traccar/traccar/pull/4189,,,,,,,
+116,https://github.com/ORCID/ORCID-Source/pull/1734,,,,,,,
+117,https://github.com/SonarSource/sonar-java/pull/1091,,,,,,,
+118,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/84,,,,,,,
+119,https://github.com/HubSpot/Singularity/pull/673,,,,,,,
+120,https://github.com/apache/incubator-heron/pull/3355,,,,,,,
+121,https://github.com/apache/opennlp/pull/39,,,,,,,
+122,https://github.com/apache/opennlp/pull/367,,,,,,,
+123,https://github.com/azkaban/azkaban/pull/2195,,,,,,,
+124,https://github.com/PegaSysEng/pantheon/pull/461,,,,,,,
+125,https://github.com/GoogleContainerTools/jib/pull/407,,,,,,,
+126,https://github.com/datastax/java-driver/pull/1469,,,,,,,
+127,https://github.com/square/okio/pull/360,,,,,,,
+128,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140,,,,,,,
+129,https://github.com/gstreamer-java/gst1-java-core/pull/106,,,,,,,
+130,https://github.com/hierynomus/sshj/pull/266,,,,,,,
+131,https://github.com/molgenis/molgenis/pull/695,,,,,,,
+132,https://github.com/apache/calcite/pull/770,,,,,,,
+133,https://github.com/cdapio/cdap/pull/160,,,,,,,
+134,https://github.com/googleapis/gapic-generator/pull/3055,,,,,,,
+135,https://github.com/pentaho/pentaho-kettle/pull/7,,,,,,,
+136,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2170,,,,,,,
+137,https://github.com/k9mail/k-9/pull/2313,,,,,,,
+138,https://github.com/pentaho/pentaho-platform/pull/1717,,,,,,,
+139,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/4209,,,,,,,
+140,https://github.com/broadinstitute/picard/pull/543,,,,,,,
+141,https://github.com/twilio/twilio-java/pull/371,,,,,,,
+142,https://github.com/apache/kafka/pull/1821,,,,,,,
+143,https://github.com/zalando/zalenium/pull/728,,,,,,,
+144,https://github.com/angular/clutz/pull/956,,,,,,,
+145,https://github.com/enonic/xp/pull/4729,,,,,,,
+146,https://github.com/querydsl/querydsl/pull/1970,,,,,,,
+147,https://github.com/alissonwilker/fabriki-exercicios/pull/3284,,,,,,,
+148,https://github.com/grpc/grpc-java/pull/2822,,,,,,,
+149,https://github.com/broadinstitute/picard/pull/1359,,,,,,,
+150,https://github.com/google/auto/pull/760,,,,,,,
+151,https://github.com/apache/kafka/pull/5135,,,,,,,
+152,https://github.com/neo4j-contrib/neo4j-graph-algorithms/pull/907,,,,,,,
+153,https://github.com/molgenis/molgenis/pull/4571,,,,,,,
+154,https://github.com/Yakindu/statecharts/pull/2072,,,,,,,
+155,https://github.com/pentaho/pentaho-platform/pull/2640,,,,,,,
+156,https://github.com/influxdata/influxdb-java/pull/351,,,,,,,
+157,https://github.com/yegor256/cactoos/pull/1493,,,,,,,

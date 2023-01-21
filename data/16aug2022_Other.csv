@@ -1,0 +1,36 @@
+,url,title_mask,comment,testability_meaning,pr_group,ref_pattern,prod_file,prod_location,test_location,Coder
+0,https://github.com/pentaho/pentaho-kettle/pull/711,Other, ,,irrelevant,,,,,TPu
+1,https://github.com/geoserver/geoserver/pull/886,Other,Constructor set to public,,incl_ref_for_test,widen_access_for_invocation,src/extension/wcs2_0-eo/core/src/main/java/org/geoserver/wcs2_0/eo/response/GranuleCoverageInfo.java,,https://github.com/geoserver/geoserver/pull/886/files#diff-518d32283f0ae00198fbb17f61668a6d2c5a4f5ac9ba4bb13657f2091458e70fR59,TPu
+2,https://github.com/Graylog2/graylog2-server/pull/1485,Other, ,,irrelevant,,,,,TPu
+3,https://github.com/eclipse/jetty.project/pull/3401,Other, ,,irrelevant,,,,,TPu
+4,https://github.com/enonic/xp/pull/2259,Other, ,,irrelevant,,,,,TPu
+5,https://github.com/mybatis/mybatis-3/pull/1890,Other, ,,irrelevant,,,,,TPu
+6,https://github.com/rsocket/rsocket-java/pull/213,Other, ,,irrelevant,,,,,TPu
+7,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1414,Other, ,,irrelevant,,,,,TPu
+8,https://github.com/neo4j/neo4j-java-driver/pull/593,Other, ,,irrelevant,,,,,TPu
+9,https://github.com/magefree/mage/pull/1340,Other, ,,irrelevant,,,,,TPu
+10,https://github.com/palantir/atlasdb/pull/3145,Other, ,,irrelevant,,,,,TPu
+11,https://github.com/googleapis/google-cloud-java/pull/333,Other, ,,irrelevant,,,,,TPu
+12,https://github.com/Alluxio/alluxio/pull/4856,Other,Code extracted to another class; apparently to make IntegrationTestUtils smaller,,only_ref_for_test,extract_class_for_invocation,core/common/src/main/java/alluxio/util/UnderFileSystemUtils.java,,https://github.com/Alluxio/alluxio/pull/4856/files#diff-def97c5d1602af800165712e0888332a937c594af32fab9a334fb00152261472R63,TPu
+13,https://github.com/dbeaver/dbeaver/pull/4958,Other, ,,irrelevant,,,,,TPu
+14,https://github.com/apache/nifi/pull/556,Other, ,,irrelevant,,,,,TPu
+15,https://github.com/pentaho/pentaho-platform/pull/1713,Other, ,,irrelevant,,,,,TPu
+16,https://github.com/grpc/grpc-java/pull/7592,Other, ,,irrelevant,,,,,TPu
+17,https://github.com/ibissource/iaf/pull/969,Other, ,,irrelevant,,,,,TPu
+18,https://github.com/find-sec-bugs/find-sec-bugs/pull/572,Other, ,,irrelevant,,,,,TPu
+19,https://github.com/confluentinc/ksql/pull/3297,Other, ,,irrelevant,,,,,TPu
+20,https://github.com/PegaSysEng/pantheon/pull/1174,Other,@VisibleForTesting replaced with public,,incl_ref_for_test,widen_access_for_override,ethereum/permissioning/src/main/java/tech/pegasys/pantheon/ethereum/permissioning/node/provider/SyncStatusNodePermissioningProvider.java,,https://github.com/PegaSysEng/pantheon/pull/1174/files#diff-fd18eec647d3dd4cf48aaeb7dfa98ed224e6c95699cca4c355882dc3eacedeb9R107,TPu
+21,https://github.com/confluentinc/ksql/pull/444,Other, ,,irrelevant,,,,,TPu
+22,https://github.com/traccar/traccar/pull/4189,Other, ,,irrelevant,,,,,TPu
+23,https://github.com/ORCID/ORCID-Source/pull/1734,Other, ,,irrelevant,,,,,TPu
+24,https://github.com/SonarSource/sonar-java/pull/1091,Other, ,,irrelevant,,,,,TPu
+25,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/84,Other, ,,irrelevant,,,,,TPu
+26,https://github.com/HubSpot/Singularity/pull/673,Other, ,,irrelevant,,,,,TPu
+27,https://github.com/apache/incubator-heron/pull/3355,Other, ,,irrelevant,,,,,TPu
+28,https://github.com/apache/opennlp/pull/39,Other, ,,irrelevant,,,,,TPu
+29,https://github.com/apache/opennlp/pull/367,Other, ,,irrelevant,,,,,TPu
+30,https://github.com/azkaban/azkaban/pull/2195,Other,private' removed from MEM_KEYS,,incl_ref_for_test,widen_access_for_override,azkaban-common/src/main/java/azkaban/utils/OsMemoryUtil.java,,https://github.com/azkaban/azkaban/pull/2195/files#diff-77228f1767186c1f5fecb7e3a1c071e5a08dc41286b6a280ef4c9ccc234553ecR37,TPu
+31,https://github.com/PegaSysEng/pantheon/pull/461,Other, ,,irrelevant,,,,,TPu
+32,https://github.com/GoogleContainerTools/jib/pull/407,Other, ,,irrelevant,,,,,TPu
+33,https://github.com/datastax/java-driver/pull/1469,Other, ,,irrelevant,,,,,TPu
+34,https://github.com/square/okio/pull/360,Other, ,,irrelevant,,,,,TPu

@@ -1,0 +1,30 @@
+,url,title_mask,comment,testability_meaning,pr_group,ref_pattern,prod_file,prod_location,test_location,Coder
+0,https://github.com/pentaho/pentaho-kettle/pull/1179,Other,unsure: method extracted to protected method but never called in test,,incl_ref_for_test,extract_method_for_invocation,engine/src/org/pentaho/di/trans/steps/transexecutor/TransExecutorMeta.java,https://github.com/pentaho/pentaho-kettle/pull/1179/files#diff-3d5a45293b7a6162d01a6ed92d022a1ca3d3f2036eff2eeefd37d0902841a4d4R566,,VD
+1,https://github.com/yahoo/athenz/pull/348,Other,unsure: behavior of method changed to throwing exception. Exception behavior in used to improve test. Might just be a functional change,,incl_ref_for_test,other,servers/zms/src/main/java/com/yahoo/athenz/zms/ZMSImpl.java,https://github.com/AthenZ/athenz/pull/348/files#diff-e88b7bd2675e5c4ac80cf69b6e0ff1275ee9a5179af7f0bfbec1d37eca79c852R6627,https://github.com/AthenZ/athenz/pull/348/files#diff-e5839e623d13e9134c68649c9504c66f2e076dabdf44bccf805b8d9abaf63facR11268,VD
+2,https://github.com/cloudfoundry/uaa/pull/1149,Other,just a few functional optimizations coupled with moving code around,,irrelevant,,,,,VD
+3,https://github.com/jenkinsci/build-failure-analyzer-plugin/pull/32,Other,the new setter/return value could be used to improve the tests but isn't,,irrelevant,,,,,VD
+4,https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/1776,Other,"bugfix + test, no refactoring",,irrelevant,,,,,VD
+5,https://github.com/exonum/exonum-java-binding/pull/279,Other,tons of new code with little changes to existing code. I could not spot anything interesting but the codebase is mostly in rust which I am not fluent in,,irrelevant,,,,,VD
+6,https://github.com/Alluxio/alluxio/pull/3191,Other,functional change,,irrelevant,,,,,VD
+7,https://github.com/SonarSource/sonar-java/pull/2847,Other,new feature + tests,,irrelevant,,,,,VD
+8,https://github.com/wso2/carbon-identity-framework/pull/2543,Other,unsure: new constructor for StepConfig added but never used in test,,irrelevant,,,,,VD
+9,https://github.com/pentaho/pentaho-platform-plugin-reporting/pull/714,Other,bugfix,,irrelevant,,,,,VD
+10,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2439,Other,bugfix and new tests using existing code,,irrelevant,,,,,VD
+11,https://github.com/yegor256/cactoos/pull/120,Other,bugfix + tests but interface of prod code remains unchanges so no impact on testability,,irrelevant,,,,,VD
+12,https://github.com/GoogleContainerTools/jib/pull/1751,Other,just a general refactoring,,irrelevant,,,,,VD
+13,https://github.com/apache/zeppelin/pull/3593,Other,new feature + test,,irrelevant,,,,,VD
+14,https://github.com/CorfuDB/CorfuDB/pull/138,Other,new feature,,irrelevant,,,,,VD
+15,https://github.com/grpc/grpc-java/pull/4786,Other,general refactoring / minor feature change,,irrelevant,,,,,VD
+16,https://github.com/HubSpot/jinjava/pull/220,Other,only added code,,irrelevant,,,,,VD
+17,https://github.com/confluentinc/ksql/pull/4983,Other,no code changes,,irrelevant,,,,,VD
+18,https://github.com/apache/commons-lang/pull/508,Other,new method added and tested,,irrelevant,,,,,VD
+19,https://github.com/dropwizard/metrics/pull/1269,Other,only added code,,irrelevant,,,,,VD
+20,https://github.com/confluentinc/ksql/pull/49,Other,mainly a bugfix even though a parameter is added to the constructor. This parameter has no impact on how the tests are written ,,irrelevant,,,,,VD
+21,https://github.com/grpc/grpc-java/pull/6610,Other,bugfix for race condition,,irrelevant,,,,,VD
+22,https://github.com/Alluxio/alluxio/pull/6535,Other,small bugfix / general refactoring,,irrelevant,,,,,VD
+23,https://github.com/geoserver/geoserver/pull/1846,Other,extremely small feature change + unrelated new test cases,,irrelevant,,,,,VD
+24,https://github.com/apache/calcite/pull/1321,Other,feature added,,irrelevant,,,,,VD
+25,https://github.com/grpc/grpc-java/pull/2730,Other,minor prod change with many new and unrelated tests,,irrelevant,,,,,VD
+26,https://github.com/neo4j/neo4j-java-driver/pull/428,Other,small feature change with new test cases,,irrelevant,,,,,VD
+27,,, ,,,,,,,
+28,,, ,,,,,,,

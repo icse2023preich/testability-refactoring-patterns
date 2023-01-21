@@ -1,0 +1,32 @@
+,url,title_mask,comment,testability_meaning,pr_group,ref_pattern,prod_file,prod_location,test_location,Coder
+0,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140,test,buildCaseDataContent was extracted into a new class CaseDataBuilder,,only_ref_for_test,extract_method_for_invocation,src/main/java/uk/gov/hmcts/ethos/replacement/docmosis/client/CaseDataBuilder.java,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140/files#diff-cbc0b2523d08456a6610ac802546f9699a711c4988ca801d227bd7dd4324a5baR26,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140/files#diff-870caba1c526684c842e79aa4d6bb4d56f4f8771c0201ca1cd463e8e4df78d22R52,Reviewer4
+1,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140,,buildCaseDataContent's visibility was increased to protected after extraction so that it can be called in test (and prod),,only_ref_for_test,extract_method_for_invocation,src/main/java/uk/gov/hmcts/ethos/replacement/docmosis/client/CaseDataBuilder.java,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140/files#diff-cbc0b2523d08456a6610ac802546f9699a711c4988ca801d227bd7dd4324a5baR26,https://github.com/hmcts/ethos-repl-docmosis-service/pull/140/files#diff-870caba1c526684c842e79aa4d6bb4d56f4f8771c0201ca1cd463e8e4df78d22R52,Reviewer4
+2,https://github.com/gstreamer-java/gst1-java-core/pull/106,test,only new code,,irrelevant,,,,,Reviewer4
+3,https://github.com/hierynomus/sshj/pull/266,test,bugfix with new test using existing methods to prevent bug in future,,irrelevant,,,,,Reviewer4
+4,https://github.com/molgenis/molgenis/pull/695,test,just formatting changes (and prints removed),,irrelevant,,,,,Reviewer4
+5,https://github.com/apache/calcite/pull/770,test,changes exclusively in test files,,irrelevant,,,,,Reviewer4
+6,https://github.com/cdapio/cdap/pull/160,test,only very minor functional changes,,irrelevant,,,,,Reviewer4
+7,https://github.com/googleapis/gapic-generator/pull/3055,test,only new code,,irrelevant,,,,,Reviewer4
+8,https://github.com/pentaho/pentaho-kettle/pull/7,test,functional change,,irrelevant,,,,,Reviewer4
+9,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/2170,test,no new code,,irrelevant,,,,,Reviewer4
+10,https://github.com/k9mail/k-9/pull/2313,test,functional change,,irrelevant,,,,,Reviewer4
+11,https://github.com/pentaho/pentaho-platform/pull/1717,test,only formatting changes to prod code,,irrelevant,,,,,Reviewer4
+12,https://github.com/Sage-Bionetworks/Synapse-Repository-Services/pull/4209,test,only functional changes,,irrelevant,,,,,Reviewer4
+13,https://github.com/broadinstitute/picard/pull/543,test,"no changes to tests, mostly cleanup in production",,irrelevant,,,,,Reviewer4
+14,https://github.com/twilio/twilio-java/pull/371,test,unsure: testability related but only to make tests run in parallel,,irrelevant,,,,,Reviewer4
+15,https://github.com/apache/kafka/pull/1821,test,hasCompletedFetches() and hasInFlightFetches() methods were created and invocated in tests,,incl_ref_for_test,other,,,,Reviewer4
+16,https://github.com/zalando/zalenium/pull/728,Other,bugfix,,irrelevant,,,,,Reviewer4
+17,https://github.com/angular/clutz/pull/956,Other,functional changes to fix some warnings,,irrelevant,,,,,Reviewer4
+18,https://github.com/enonic/xp/pull/4729,Other,new feature. While it includes setters that are used to insert mocked classes in test this does not seem to be their main purpose,,irrelevant,,,,,Reviewer4
+19,https://github.com/querydsl/querydsl/pull/1970,Other,functional change,,irrelevant,,,,,Reviewer4
+20,https://github.com/alissonwilker/fabriki-exercicios/pull/3284,Other,only new code,,irrelevant,,,,,Reviewer4
+21,https://github.com/grpc/grpc-java/pull/2822,Other,functional change,,irrelevant,,,,,Reviewer4
+22,https://github.com/broadinstitute/picard/pull/1359,Other,methods of InfiniumDataFile made public and static so that they can be used in test,,incl_ref_for_test,widen_access_for_invocation,src/main/java/picard/arrays/illumina/InfiniumDataFile.java,https://github.com/broadinstitute/picard/pull/1359/files#diff-03ba0e336fed2c8395ef7db85ca97b58f3b17b6413e7cc188c3917f557cdb797R81,https://github.com/broadinstitute/picard/pull/1359/files#diff-fb3fa012deb7ec8f4a22b0e8023cd45d42364342d6ebd16dfd8a03cbaddd10f7R62,Reviewer4
+23,https://github.com/google/auto/pull/760,Other,all changed lines are related to functional changes,,irrelevant,,,,,Reviewer4
+24,https://github.com/apache/kafka/pull/5135,Other,"bugfix, added serviceLoaderManifestForPlugin() to allow for testing of new changes but this does not constitute a refactoring",,irrelevant,,,,,Reviewer4
+25,https://github.com/neo4j-contrib/neo4j-graph-algorithms/pull/907,Other,bugfix,,irrelevant,,,,,Reviewer4
+26,https://github.com/molgenis/molgenis/pull/4571,Other,"bugfix, swapped use of datastructures due to bugs",,irrelevant,,,,,Reviewer4
+27,https://github.com/Yakindu/statecharts/pull/2072,Other,small functional change paired with new and huge input files for tests,,irrelevant,,,,,Reviewer4
+28,https://github.com/pentaho/pentaho-platform/pull/2640,Other,getActionOutputContents() created to widen access to fields and used in test,,incl_ref_for_test,widen_access_for_invocation,extensions/src/org/pentaho/platform/plugin/action/builtin/ActionSequenceAction.java,https://github.com/pentaho/pentaho-platform/pull/2640/files#diff-d28437eb412b243b0083a5b0e7efeae58dc11b3b497e94794de3650e81443007R153,https://github.com/pentaho/pentaho-platform/pull/2640/files#diff-a1652bd52ca702eb2f29476973e7a622061655aa0c18bddbd6f4db0590baf1d5R79,Reviewer4
+29,https://github.com/influxdata/influxdb-java/pull/351,Other,"new feature, almost no changed lines",,irrelevant,,,,,Reviewer4
+30,https://github.com/yegor256/cactoos/pull/1493,Other,no changed code lines,,irrelevant,,,,,Reviewer4
