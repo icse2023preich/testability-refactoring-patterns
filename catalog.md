@@ -1,5 +1,7 @@
 Catalog of refactoring patterns.
 
+# Contributions, examples and suggestions are welcome: please raise an issue or a pull request.
+
 # List of refactoring patterns
 
 ## extract_method_for_override

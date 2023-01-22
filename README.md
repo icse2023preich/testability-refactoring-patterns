@@ -18,3 +18,5 @@ refminer-mvn-plugin is a maven plugin to run own patched version of refactoringm
 miner.py used reviewed.csv to run refactoringminer. it produces testable_prs.csv and mined patterns are saved in .csv files in mined folder.
 combine_sources.ipynb imports manually assessed PRs from google docs, the URLs have been nulled for anonymisation purposes. For the screen-ready 
 icse2023-tables.ipynb generates tables/charts for the LaTeX template of the paper.
+
+catalog.md contains a list of testability refactoring patterns with examples. 
